@@ -1,0 +1,4286 @@
+[
+    {
+        "brand": "AMD",
+        "model": "2650"
+    },
+    {
+        "brand": "AMD",
+        "model": "3850"
+    },
+    {
+        "brand": "AMD",
+        "model": "5150"
+    },
+    {
+        "brand": "AMD",
+        "model": "5350"
+    },
+    {
+        "brand": "AMD",
+        "model": "5350"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-5700"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-5800K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-6700"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-6700T"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-6790B"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-6790K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-6800B"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-6800K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7700K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7700K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7800"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7850K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7850K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7860k"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7870K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-7890K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-9700"
+    },
+    {
+        "brand": "AMD",
+        "model": "A10-9700E"
+    },
+    {
+        "brand": "AMD",
+        "model": "A12-9800"
+    },
+    {
+        "brand": "AMD",
+        "model": "A12-9800E"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-3300"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-3300"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-3400"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-3400"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-3420"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-3450"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-4000"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-4000"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-4020"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-5300"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-5300"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-6300"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-6300B"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-6320"
+    },
+    {
+        "brand": "AMD",
+        "model": "A4-7300"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-3500"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-3650"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-3670K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-5400K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-6400K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-6420K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-7400K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-7470K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-7470K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-7480"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-9500"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-9500E"
+    },
+    {
+        "brand": "AMD",
+        "model": "A6-9550"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-3850"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-3870K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-5500"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-5600K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-6500"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-6600K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-7600"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-7650K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-7670K"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-7680"
+    },
+    {
+        "brand": "AMD",
+        "model": "A8-9600"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 200GE"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 200GE"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 220GE"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 220GE"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 240GE"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 240GE"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 3000G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon 5370"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II 160u"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 215"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 220"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 221"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 235e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 240"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 240"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 240e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 245"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 245e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 250"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 250"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 250u"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 255"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 255"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 260"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 260u"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 265"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X2 270"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 400e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 405e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 415e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 425"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 435"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 435"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 440"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 445"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 450"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 455"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X3 460"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 600e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 605e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 610e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 620"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 620"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 630"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 630"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 630"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 631"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 635"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 635"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 638"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 640"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 640"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 641"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 645"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 651"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon II X4 651K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X2 340"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X2 350"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X2 370K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X2 450"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 530"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 550"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 740"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 750K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 760K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 840"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 845"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 860K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 870K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 880K"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 940"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 950"
+    },
+    {
+        "brand": "AMD",
+        "model": "Athlon X4 970"
+    },
+    {
+        "brand": "AMD",
+        "model": "E-Series E-450"
+    },
+    {
+        "brand": "AMD",
+        "model": "E2-3200"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4100"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4130"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4150"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4170"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4200"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4300"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4320"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-4350"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6100"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6120"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6130"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6200"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6300"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6300"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-6350"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8100"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8120"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8140"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8150"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8300"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8300"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8310"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8320"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8320"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8320E"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8350"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8350"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8350"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8370"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-8370E"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-9370"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-9370"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-9590"
+    },
+    {
+        "brand": "AMD",
+        "model": "FX-9590"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 4386"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6320"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6320"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6328"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6328"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6344"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6344"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6378"
+    },
+    {
+        "brand": "AMD",
+        "model": "Opteron 6378"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 545"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 550"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 550 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 555 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 560 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 565 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X2 B59"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X3 705e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X3 710"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X3 715 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X3 720"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X3 720 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X3 740 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 805"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 810"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 820"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 830"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 840"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 905e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 910"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 910e"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 920"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 925"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 940 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 945"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 955"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 955 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 960T Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 965"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 965 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 965 Black (140W)"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 970"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 970 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 975"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 975"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 980 Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X4 B99"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1035T"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1045T"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1055T"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1055T"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1065T"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1075T"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1090T Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Phenom II X6 1100T Black"
+    },
+    {
+        "brand": "AMD",
+        "model": "Pro A10-7800B"
+    },
+    {
+        "brand": "AMD",
+        "model": "Pro A10-7850B"
+    },
+    {
+        "brand": "AMD",
+        "model": "Pro A4-7300B"
+    },
+    {
+        "brand": "AMD",
+        "model": "Pro A6-7400B"
+    },
+    {
+        "brand": "AMD",
+        "model": "Pro A8-7600B"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 1200 (12nm)"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 1200 (14nm)"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 1300X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 2200G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 3100"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 3200G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 3200G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 3 3300X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 1400"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 1500X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 1600 (12nm)"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 1600 (14nm)"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 1600X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 2400G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 2600"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 2600"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 2600X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 2600X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3400G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3400G"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3500"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3500X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3600"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3600"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3600X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3600X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 3600XT"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 5 5600X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 1700"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 1700X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 1700X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 1800X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 1800X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 2700"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 2700"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 2700X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 3700X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 3700X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 3800X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 3800X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 3800XT"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 7 5800X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 3900X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 3900X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 3900XT"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 3950X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 3950X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 5900X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Ryzen 9 5950X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron 130"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron 140"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron 145"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron 145"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron 150"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron X2 190"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron X2 198"
+    },
+    {
+        "brand": "AMD",
+        "model": "Sempron X2 250"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 1900X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 1920X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 1950X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2920X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2920X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2950X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2950X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2970WX"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2970WX"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2990WX"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 2990WX"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 3960X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 3970X"
+    },
+    {
+        "brand": "AMD",
+        "model": "Threadripper 3990X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Atom D2500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Atom D2700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 430"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 430"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 440"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 440"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 450"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron 847"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E1200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E1200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E1400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E1400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E1500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E1600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E3200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E3300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E3300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E3400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron E3500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1610"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1630"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1820"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1830"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1840"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G1850"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G3900"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G3920"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G3930"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G3930"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G3930T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G3950"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G440"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G465"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G470"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G4900"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G4900T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G4920"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G4920"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G4930"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G530"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G540"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G555"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G5900"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G5905"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G5905T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G5920"
+    },
+    {
+        "brand": "Intel",
+        "model": "Celeron G5925"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E4600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6540"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6750"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6750"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6850"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E6850"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E7600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8190"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Duo E8600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX6800"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX6800"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX6850"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX6850"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX9650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX9650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX9770"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX9775"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme QX9775"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Extreme X6800"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8200S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q8400S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9400S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9450"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9450"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9505"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9505"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9505S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9550S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core 2 Quad Q9650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-10100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-10100F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-10300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-10320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2105"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2120"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2120T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2125"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-2130"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3210"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3220"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3220T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3225"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3240"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3240"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3245"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-3250"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-350M"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4130"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4130T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4150"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4160"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4160T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4170"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4330"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4340"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4350"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4360"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4360T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4370"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-4370"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-530"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-540"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-560"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6098P"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6300T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-6320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7101TE"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7300T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7350K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-7350K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8300T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8350K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-8350K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9100"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9100F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9100T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9350K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9350K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i3-9350KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-10400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-10400F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-10500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-10600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-10600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-10600KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2310"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2320"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2380P"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2400S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2405S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2450P"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2500K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-2550K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3330"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3330S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3340"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3340S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3350P"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3360M"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3450"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3450S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3470"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3470S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3550S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3570"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3570K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-3570S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4430"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4440"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4440S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4460"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4460S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4570"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4570S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4570S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4570T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4590"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4590S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4590T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4670"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4670K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4670S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4690"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4690"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4690K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4690K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-4690S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-5675C"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6402P"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-655K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-660"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-6600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-661"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-670"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-680"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-750"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-750"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-750S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-760"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7640X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7640X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-7640X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-8600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9400F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9400F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9500F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9500F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i5-9600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-10700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-10700F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-10700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-10700KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-2600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-2600K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-2600S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-2700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3770"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3770K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3770S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3770T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3820"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3930K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3960X Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-3970X Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4770"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4770K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4770K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4770K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4770S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4770T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4771"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4790T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4820K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4930K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-4960X Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-5775C"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-5820K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-5930K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-5960X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6700T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6800K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6800K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6800K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6850K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6850K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6900K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6900K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6900K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6950X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6950X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-6950X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7700T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7700T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7740X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7740X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7740X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7800X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7800X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7800X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7820X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7820X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-7820X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-8086K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-860"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-860S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-860S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-870"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-870"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-8700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-8700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-8700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-8700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-8700T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-870S"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-875K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-880"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-920"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-920"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-930"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-930"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-940"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-940"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-950"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-960"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-965 Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-965 Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-970"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9700T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-975 Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-980"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9800X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-9800X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-980X Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i7-990X Extreme Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10850K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10850K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10850KA Avengers Limited Edition"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10900"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10900F"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10900K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10900KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10900X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10920X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10940X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-10980XE"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7900X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7900X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7900X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7920X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7920X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7940X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7960X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7960X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7980XE"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-7980XE"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9820X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9820X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900K"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900K (Standard Folding Box)"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900KF"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900KS"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9900X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9920X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9920X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9940X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9940X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9960X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9960X"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9980XE"
+    },
+    {
+        "brand": "Intel",
+        "model": "Core i9-9980XE"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2140"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2140"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2160"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2180"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2180"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2220"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E2220"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5200"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E5800"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6300"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6700"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium E6800"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G2010"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G2020"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G2030"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G2120"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G2130"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G2140"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3220"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3240"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3250"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3250T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3258"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3258"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3260"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3430"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3440"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3450"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3460"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3460"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3470"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G3470"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4520"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4520"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4560"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4560"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4560T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4600T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G4620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G550"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G620T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G630"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G630T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G640"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G640T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G645"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G6950"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G840"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G850"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G860"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium G870"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5400T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5420"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5500T"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G5600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G6400"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G6500"
+    },
+    {
+        "brand": "Intel",
+        "model": "Pentium Gold G6600"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2104G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2124"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2124"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2124G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2124G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2126G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2134"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2134"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2136"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2136"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2144G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2146G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2146G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2174G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2174G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2176G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2176G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2236"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2236"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2244G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2246G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2274G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2274G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2276G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2278G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2286G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E-2288G"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1220 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1225 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1226 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1230 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1231 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1235"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1235L V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1240L V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1241 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1245 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1246 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1260L V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1265L V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1265L V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1270 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1271 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1275"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1275 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1275 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1275 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1275 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1275 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1276 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1280"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1280"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1280 V5"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1280 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E3-1285 V6"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1620 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1620 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1620 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1620 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1620 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1630 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1630 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1650 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1650 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1650 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1660"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1660 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1660 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1660 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-1680 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2420V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2430V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2440V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2450V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2470V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2603"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2603 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2603 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2603 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2603 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2603 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2609"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2609"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2609 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2609 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2609 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2609 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2620 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2622 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2623 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630L V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2630L V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2637 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2637 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2640"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2640 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2640 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2640 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2640 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2643 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2643 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2643 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650L"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650L V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650L V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2650L V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2658 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2660"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2660 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2660 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2660 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2660 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2665"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2665"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2667 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2667 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2670"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2670 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2670 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2680"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2680 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2680 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2680 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2683 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2683 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2683 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2685 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2687W"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2687W"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2687W V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2687W V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2687W V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2690"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2690 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2690 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2690 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2695 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2695 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2695 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2695 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2697 V2"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2697 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2697 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2698 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2698 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2699 V3"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-2699 V4"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-4620"
+    },
+    {
+        "brand": "Intel",
+        "model": "Xeon E5-4650"
+    }
+]

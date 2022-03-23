@@ -1,0 +1,4994 @@
+[
+    {
+        "brand": "ADATA",
+        "model": "XPG LEVANTE 240"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 11"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 11 - Passive"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 11 GT Rev 2"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 11 GT Rev. 2"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 11 Plus"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 11 Pro Rev. 2"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 12"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 12 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 12 LP"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 12 Passive"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 20 PLUS CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 64 GT"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 64 PLUS"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 64 Pro Rev 2"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 7 GT"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine 7 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine AM4"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine AM4 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine AM4 LP"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine M1"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine M1 - Passive"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Alpine Passive"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 11 LP"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 12"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 12 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 13"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 13 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 13 Limited Edition"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 13 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 PENTA"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 Plus"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 TR (Black/Red)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 TR (Black/White)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports Edition (Black/Green)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports Edition (Black/Red)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports Edition (Black/White)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports Edition (Black/Yellow)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports ONE (Black/Green)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports ONE (Black/Red)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports ONE (Black/White)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 33 eSports ONE (Black/Yellow)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports DUO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports DUO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports DUO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports DUO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports DUO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 34 eSports DUO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 50"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 50 (w/Controller)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 50 TR"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 50 TR (w/ARGB Controller)"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 7 Pro Rev.2"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 7 X"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer 7 X CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer A11"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer A13 X"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer A13 X CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer A30"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer A32"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer Xtreme Rev.2"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i11"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i11 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i13 X"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i13 X CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i30"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i30 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i30 Extreme"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i32"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Freezer i32 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "LIQUID FREEZER II 360"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer 120"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer 240"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer 360"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer II 120"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer II 240"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer II 280"
+    },
+    {
+        "brand": "ARCTIC",
+        "model": "Liquid Freezer II 420"
+    },
+    {
+        "brand": "Aerocool",
+        "model": "Cylon 4"
+    },
+    {
+        "brand": "Aerocool",
+        "model": "P7-L240"
+    },
+    {
+        "brand": "Akasa",
+        "model": "K32"
+    },
+    {
+        "brand": "Akasa",
+        "model": "Nero 3"
+    },
+    {
+        "brand": "Akasa",
+        "model": "Nero 3"
+    },
+    {
+        "brand": "Akasa",
+        "model": "Nero LX"
+    },
+    {
+        "brand": "Akasa",
+        "model": "Venom"
+    },
+    {
+        "brand": "Akasa",
+        "model": "Venom Medusa"
+    },
+    {
+        "brand": "Akasa",
+        "model": "Venom Voodoo"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "ATLAS"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "BEN NEVIS"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "BLACK RIDGE"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Brocken 2"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Brocken 2 PCGH"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Brocken 3"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Brocken 3"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Brocken ECO"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Matterhorn Pure"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Matterhorn Rev. C \u2013 Black Edition"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Matterhorn Rev. C \u2013 White Edition"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Olymp"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Panorama rev.B"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Sella"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "model": "Silvretta"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "EISBAER LT120"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer 240"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer 360"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer 420"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer Aurora 240"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer Aurora 280"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer Aurora 360"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer Aurora 420"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer LT240"
+    },
+    {
+        "brand": "Alphacool",
+        "model": "Eisbaer LT360"
+    },
+    {
+        "brand": "Antec",
+        "model": "A30"
+    },
+    {
+        "brand": "Antec",
+        "model": "A40PRO"
+    },
+    {
+        "brand": "Antec",
+        "model": "C40"
+    },
+    {
+        "brand": "Antec",
+        "model": "C400"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER Box"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER Flow"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER H2O 1250"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER H2O 650"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER H2O 920"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER H2O 950"
+    },
+    {
+        "brand": "Antec",
+        "model": "KUHLER Shelf"
+    },
+    {
+        "brand": "Antec",
+        "model": "Kuhler H2O 620"
+    },
+    {
+        "brand": "Antec",
+        "model": "K\u00fchler H600 Pro"
+    },
+    {
+        "brand": "Antec",
+        "model": "Mercury 120"
+    },
+    {
+        "brand": "Antec",
+        "model": "Mercury 120 RGB"
+    },
+    {
+        "brand": "Antec",
+        "model": "Mercury 240"
+    },
+    {
+        "brand": "Antec",
+        "model": "Mercury 240 RGB"
+    },
+    {
+        "brand": "Antec",
+        "model": "Mercury 360"
+    },
+    {
+        "brand": "Antec",
+        "model": "Mercury 360 RGB"
+    },
+    {
+        "brand": "Antec",
+        "model": "Neptune 240 ARGB"
+    },
+    {
+        "brand": "Antec",
+        "model": "Performance Max"
+    },
+    {
+        "brand": "Apacer",
+        "model": "ZADAK Spark 240"
+    },
+    {
+        "brand": "Apacer",
+        "model": "ZADAK Spark Lite 240"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG RYUJIN 360"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG RYUO 120 RGB"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG RYUO 240 RGB"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG Ryujin 240 RGB AIO"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG STRIX LC 120 RGB"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG STRIX LC 240 RGB"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG STRIX LC 240 RGB White"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG STRIX LC 360 RGB"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG STRIX LC 360 RGB White"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG Strix LC 120"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG Strix LC 240"
+    },
+    {
+        "brand": "Asus",
+        "model": "ROG Strix LC 360"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "A40"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "A40 ULTIMATE"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "A80"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "C1"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "C7"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "C7 Cu"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "C7 RGB"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "C7G"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "H5 Ultimate"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "H5 Universal"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "H7"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "H7 Plus"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "H7 Quad Lumi"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "H7 ULTRA"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "M9 Plus"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "M9a"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "M9i"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "R1 Ultimate"
+    },
+    {
+        "brand": "CRYORIG",
+        "model": "R1 Universal"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "A71C"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Blizzard T2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Blizzard T2 mini"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "CHD-00008-01-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "DI5-8E5PA-0L-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "DI5-9HDSC-A1-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "DK9-7E52A-0L-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "DK9-7G52A-0L-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "DP6-9EDSA-0L-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Eisberg 120L Prestige"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Eisberg 240L Prestige"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Gemin II S524"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "GeminII M4"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "GeminII M5 LED"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "GeminII S"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "GeminII S524"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "GeminII S524 Ver 2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Glacer 240L"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Glacer 240L Ver. 2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 103"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 Black Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 EVO"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 LED"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 LED Turbo (Black)"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 LED Turbo (Red)"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 LED Turbo White Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 Plus"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 RGB Black Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212 RGB Phantom Gaming Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212X"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 212X Dual Fan"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 412 Slim"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 412S"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 612"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 612 PWM"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper 612 Ver.2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper D92"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper H410R"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper H411R"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper H412R"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper N520"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper T2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper T4"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper TX3"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Hyper TX3 Evo"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "I71C RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MA410P TUF Gaming Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MA621P TR4"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MASTERAIR MA620M"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MASTERLIQUID ML120L RGB V2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MASTERLIQUID ML240L RGB V2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "ML120L TUF Gaming Alliance Edition RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAIR G200P"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir G100M RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir MA410M"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir MA410M TUF Gaming Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir MA410P"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir MA610P"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir MA620P"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir MA620P TUF Gaming Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir Maker 8"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir Pro 3"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterAir Pro 4"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid 120"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid 240"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid LC240E RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid Lite 120"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid Lite 240"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML120L RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML120R RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240 Mirror"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240 RGB (TR4 Edition)"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240L RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240P Mirage"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240R RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240R RGB Phantom Gaming Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML280 Mirror"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML360 Mirror"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML360 RGB TR4 Edition"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML360P Silver Edition ARGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML360R RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid Pro 120"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid Pro 140"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid Pro 240"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "MasterLiquid Pro 280"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Nepton 120XL"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Nepton 140XL"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Nepton 240M"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Nepton 280L"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "RR-H101-22FK-RA"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "RR-H101-22FK-RI"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "RR-LEE-L911-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "RR-T612-20PK-R1"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "RR-T812-24PK-R2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "RR-V6SV-22PR-R1"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "S2N-PLMHS-07-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 120M"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 120V"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 120V VER.2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 120XL"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 240M"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 240P"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Seidon 240V"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "TPC 812"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "TPC 812XS"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "V10 Hybrid TEC"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "V6 GT"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "V8"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "V8 GTS"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "V8 Ver.2"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Vortex Plus"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "Wraith Ripper"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "X6"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "X6 Elite"
+    },
+    {
+        "brand": "Cooler Master",
+        "model": "i71C RGB"
+    },
+    {
+        "brand": "Cooltek",
+        "model": "LP53"
+    },
+    {
+        "brand": "Corsair",
+        "model": "A50"
+    },
+    {
+        "brand": "Corsair",
+        "model": "A500"
+    },
+    {
+        "brand": "Corsair",
+        "model": "A70"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100i"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100i GTX"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100i PRO"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100i RGB PLATINUM"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100i RGB PLATINUM SE"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100i v2"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H100x"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H105"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H110"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H110i"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H110i GT"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H110i GTX"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H115i"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H115i PRO"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H115i RGB PLATINUM"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H150i PRO"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H40"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H50"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H50"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H55"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H60"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H60"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H60 (2018)"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H70"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H70 Core"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H75"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H75 2018"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H80"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H80i"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H80i GT"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H80i v2"
+    },
+    {
+        "brand": "Corsair",
+        "model": "H90"
+    },
+    {
+        "brand": "Corsair",
+        "model": "iCUE H100i ELITE CAPELLIX"
+    },
+    {
+        "brand": "Corsair",
+        "model": "iCUE H100i RGB PRO XT"
+    },
+    {
+        "brand": "Corsair",
+        "model": "iCUE H115i ELITE CAPELLIX"
+    },
+    {
+        "brand": "Corsair",
+        "model": "iCUE H115i RGB Pro XT"
+    },
+    {
+        "brand": "Corsair",
+        "model": "iCUE H150i ELITE CAPELLIX"
+    },
+    {
+        "brand": "Corsair",
+        "model": "iCUE H150i RGB PRO XT"
+    },
+    {
+        "brand": "Cougar",
+        "model": "Helor 240"
+    },
+    {
+        "brand": "Cougar",
+        "model": "Helor 360"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "ASSASSIN II"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "ASSASSIN III"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 120"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 120 EX"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 120 WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 120EX RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 120EX WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240 EX"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240 RGB V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240 WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240EX RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240EX RGB WH"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 240EX WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 360"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN 360EX WHITE RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CAPTAIN360EX"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CASTLE 240EX"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CASTLE 240EX WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CASTLE 280EX"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CASTLE 360EX"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "CASTLE 360EX WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Captain 240 Pro"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Castle 240 RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Castle 240 RGB V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Castle 280 RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Castle 360 RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Castle 360 RGB V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "FROSTWIN V2.0"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Fryzen"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GABRIEL"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMERSTORM CAPTAIN 240PRO V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMERSTORM CAPTAIN 240X"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMERSTORM CAPTAIN 240X WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMERSTORM CAPTAIN 360X WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 200"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 200T"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 300"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 300 R"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400 Blue"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400 V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400 V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400 White"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400R"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX 400S"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX C40"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GT"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GT A-RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GT TGA"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GT V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GTE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GTE V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX GTE V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX L120"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX L240"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX L240 V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "GAMMAXX S40"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Gamerstorm Captain 240 PRO"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Gammaxx L360 V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "ICE BLADE 100"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "ICE BLADE 200M"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "ICE BLADE PRO V2.0"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Ice Edge Mini FS V2.0"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "LUCIFER"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "LUCIFER K2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "LUCIFER V2"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "MAELSTROM 240 RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Maelstrom 120K"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Maelstrom 120T"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Maelstrom 120T RF"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Maelstrom 240"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Maelstrom 240T"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Maelstrom 240T RF"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "NEPTWIN"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "NEPTWIN V2.0"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "NEPTWIN WHITE"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "Neptwin RGB"
+    },
+    {
+        "brand": "Deepcool",
+        "model": "THETA 20 PWM"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "K129"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "K17"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "K199"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "K5"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "K987"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R12"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R13"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R14"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R15"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R16"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R17"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R19"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R22"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R24"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R25"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R27"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R4"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R8"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "R9"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "T195"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "T318"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "T450"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "T459"
+    },
+    {
+        "brand": "Dynatron",
+        "model": "T860"
+    },
+    {
+        "brand": "EK",
+        "model": "EK-AIO 120 D-RGB"
+    },
+    {
+        "brand": "EK",
+        "model": "EK-AIO 240 D-RGB"
+    },
+    {
+        "brand": "EK",
+        "model": "EK-AIO 360 D-RGB"
+    },
+    {
+        "brand": "EVGA",
+        "model": "ACX"
+    },
+    {
+        "brand": "EVGA",
+        "model": "ACX mITX"
+    },
+    {
+        "brand": "EVGA",
+        "model": "CLC 120"
+    },
+    {
+        "brand": "EVGA",
+        "model": "CLC 120 CL11"
+    },
+    {
+        "brand": "EVGA",
+        "model": "CLC 240"
+    },
+    {
+        "brand": "EVGA",
+        "model": "CLC 280"
+    },
+    {
+        "brand": "EVGA",
+        "model": "CLC 360"
+    },
+    {
+        "brand": "EVGA",
+        "model": "M020-00-000234"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Aquafusion 120"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Aquafusion 240"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ELC-LM120S-HP"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ELC-LM120S-TAA"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ELC120-TA"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ELC120-TB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETD-T60-TB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETD-T60-VD"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-N30-HE"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-N30-TAA"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-N30R-HE"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-N30R-TAA"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-N31-02"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40-BK"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40-TA"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40-TB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40-VD"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40-W"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40F-BK"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40F-RF"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40F-TB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T40F-W"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T50 AXE (Black)"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T50 AXE (White)"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T50 AXE ARGB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "ETS-T50 AXE ARGB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "LIQTECH II 360"
+    },
+    {
+        "brand": "Enermax",
+        "model": "LIQTECH TR4 280"
+    },
+    {
+        "brand": "Enermax",
+        "model": "LIQTECH TR4 II 360"
+    },
+    {
+        "brand": "Enermax",
+        "model": "LiqTech TR4 240"
+    },
+    {
+        "brand": "Enermax",
+        "model": "LiqTech TR4 360"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqfusion"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqfusion 360"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqmax II 120"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqmax II 240"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqmax III 120 RGB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqmax III 240 ARGB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqmax III 360 ARGB"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech 120X"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech 240"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech II 240"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech II 280"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech II 360"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech TR4 II 240"
+    },
+    {
+        "brand": "Enermax",
+        "model": "Liqtech TR4 II 280"
+    },
+    {
+        "brand": "Enzotech",
+        "model": "Extreme-X Rev.A"
+    },
+    {
+        "brand": "Evercool",
+        "model": "CI01-9525EP"
+    },
+    {
+        "brand": "Evercool",
+        "model": "EC-NK804A-925EP"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPFI-10025"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPH-9525CU"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPI-12025"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPJ-12025"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPK-10025EA"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPKC-10025EA"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPL-815EP"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPM-12025"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPO-12025"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPQ-12025"
+    },
+    {
+        "brand": "Evercool",
+        "model": "HPS-810CP"
+    },
+    {
+        "brand": "Evercool",
+        "model": "LGAL1156A-B715"
+    },
+    {
+        "brand": "Evercool",
+        "model": "NI01-9525EP"
+    },
+    {
+        "brand": "Evercool",
+        "model": "NI2011E-9525EP"
+    },
+    {
+        "brand": "Evercool",
+        "model": "TRANSFORMER S"
+    },
+    {
+        "brand": "Evercool",
+        "model": "TTC-NK35TZ/RPW/V3"
+    },
+    {
+        "brand": "Evercool",
+        "model": "TTC-NK85TZ/V2(RB)"
+    },
+    {
+        "brand": "FSP Group",
+        "model": "Windale 4"
+    },
+    {
+        "brand": "FSP Group",
+        "model": "Windale 6"
+    },
+    {
+        "brand": "FSP Group",
+        "model": "Windale 6"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius S24"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius S24 Blackout"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius S36"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius S36 Blackout"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius+ S24 Dynamic X2 PWM"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius+ S24 Prisma PWM ARGB"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius+ S28 Dynamic X2 PWM"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius+ S28 Prisma PWM ARGB"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius+ S36 Dynamic X2 PWM"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Celsius+ S36 Prisma PWM ARGB"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Kelvin S24"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Kelvin S36"
+    },
+    {
+        "brand": "Fractal Design",
+        "model": "Kelvin T12"
+    },
+    {
+        "brand": "GAMDIAS",
+        "model": "CHIONE E1A-120R"
+    },
+    {
+        "brand": "GAMDIAS",
+        "model": "CHIONE M1A 240R"
+    },
+    {
+        "brand": "GAMDIAS",
+        "model": "CHIONE P1A-360R"
+    },
+    {
+        "brand": "GameMax",
+        "model": "Gamma 500 ARGB"
+    },
+    {
+        "brand": "GameMax",
+        "model": "Gamma 500 RGB"
+    },
+    {
+        "brand": "GameMax",
+        "model": "Iceberg 120"
+    },
+    {
+        "brand": "GameMax",
+        "model": "Iceberg 120 ARGB"
+    },
+    {
+        "brand": "GameMax",
+        "model": "Iceberg 240"
+    },
+    {
+        "brand": "GameMax",
+        "model": "Iceberg 240 ARGB"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "ANTARCTICA"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Black Edition"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-GX7-01-A"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-SSilence-iplus"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-Siberian-01"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-SiberianP-01"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-Spirit-02-A"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-Ssilence-AM1"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "CC-Ssilence-APLUS"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "GX7"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Phantom"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Phantom Black"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Polar"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Rev. 1 Tranquillo"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Rev. 2 Tranquillo"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Rev. 3 Tranquillo"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Rev. 4 Tranquillo"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Sirocco"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Slim Silence 775"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Slim Silence AM2"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "Slimhero"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "model": "SnowStorm"
+    },
+    {
+        "brand": "Gigabyte",
+        "model": "AORUS ATC700"
+    },
+    {
+        "brand": "Gigabyte",
+        "model": "AORUS LIQUID COOLER 240"
+    },
+    {
+        "brand": "Gigabyte",
+        "model": "AORUS LIQUID COOLER 280"
+    },
+    {
+        "brand": "Gigabyte",
+        "model": "AORUS LIQUID COOLER 360"
+    },
+    {
+        "brand": "Gigabyte",
+        "model": "GP-ATC800"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW 120"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW 120 SNOW"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW 240 SNOW"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW X 120"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW X 240"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW X 240 SNOW"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "AURAFLOW X 360"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "Auraflow 240 RGB"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "Chromaflow240"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "DK-01"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "DK-03"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FI-REEX"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FI-VC"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FI-VC Twin"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW 240L-R"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW 240L-W"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 120"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 240"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 240 SNOW"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 360"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW+ 120"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW+ 120 SNOW"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW+ 240"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW+ 240 SNOW"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW+ 280"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "ICEKIMO 120W"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-25"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-25i"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-30"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-40"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-40PRO"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-40V3"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-40X"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-47K"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-50"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-50X"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-60"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "IS-VC45"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "PINKFLOW 240"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-203"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-203K"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-204"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-204K"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-205"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-207"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-213"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-213i"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-214"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-214X"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-214i"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-224-XT"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-224-XT"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-224-XT Basic"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-224-XT RGB"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-234-ARGB"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-802"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "SE-902"
+    },
+    {
+        "brand": "ID-COOLING",
+        "model": "ZOOMFLOW 240"
+    },
+    {
+        "brand": "In Win",
+        "model": "SR24"
+    },
+    {
+        "brand": "In Win",
+        "model": "SR36"
+    },
+    {
+        "brand": "Intel",
+        "model": "BXRTS2011AC"
+    },
+    {
+        "brand": "Intel",
+        "model": "BXRTS2011LC"
+    },
+    {
+        "brand": "Intel",
+        "model": "BXTS13A"
+    },
+    {
+        "brand": "Intel",
+        "model": "BXTS13X"
+    },
+    {
+        "brand": "Intel",
+        "model": "BXTS15A"
+    },
+    {
+        "brand": "Intel",
+        "model": "BXXTS100H"
+    },
+    {
+        "brand": "Intel",
+        "model": "E97379-001"
+    },
+    {
+        "brand": "Jonsbo",
+        "model": "CR-201 HIVES (Black)"
+    },
+    {
+        "brand": "Jonsbo",
+        "model": "CR-201 HIVES (White)"
+    },
+    {
+        "brand": "Jonsbo",
+        "model": "HP-400"
+    },
+    {
+        "brand": "Jonsbo",
+        "model": "TW3-240"
+    },
+    {
+        "brand": "LEPA",
+        "model": "AquaChanger 120"
+    },
+    {
+        "brand": "LEPA",
+        "model": "AquaChanger 240"
+    },
+    {
+        "brand": "LEPA",
+        "model": "EXllusion 240"
+    },
+    {
+        "brand": "LEPA",
+        "model": "LPALV12-BK"
+    },
+    {
+        "brand": "LEPA",
+        "model": "NEOllusion-RGB M/B Sync"
+    },
+    {
+        "brand": "Lian Li",
+        "model": "GALAHAD AIO 240 RGB"
+    },
+    {
+        "brand": "Lian Li",
+        "model": "GALAHAD AIO 240 RGB"
+    },
+    {
+        "brand": "Lian Li",
+        "model": "GALAHAD AIO 360 RGB"
+    },
+    {
+        "brand": "Lian Li",
+        "model": "GALAHAD AIO 360 RGB"
+    },
+    {
+        "brand": "Logisys",
+        "model": "AC2200BT"
+    },
+    {
+        "brand": "Logisys",
+        "model": "AC4400BT"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC106"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC207"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC211HTPC"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC221PWM"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC231PWM"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC4100AST"
+    },
+    {
+        "brand": "Logisys",
+        "model": "IC4300X4"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC106"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC2001IE"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC3001IE"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC4001IM"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC4002IW"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC4004IEXT"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC4005IB"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC6001IM"
+    },
+    {
+        "brand": "Logisys",
+        "model": "MC6002GS"
+    },
+    {
+        "brand": "MSI",
+        "model": "CORE FROZR L"
+    },
+    {
+        "brand": "MSI",
+        "model": "Core Frozr XL"
+    },
+    {
+        "brand": "MSI",
+        "model": "MAG CORE LIQUID 240R"
+    },
+    {
+        "brand": "MSI",
+        "model": "MAG CORE LIQUID 360R"
+    },
+    {
+        "brand": "Masscool",
+        "model": "5T568S1H3"
+    },
+    {
+        "brand": "Masscool",
+        "model": "5U1082F1M4"
+    },
+    {
+        "brand": "Masscool",
+        "model": "5W1081F1M3"
+    },
+    {
+        "brand": "Masscool",
+        "model": "7WA868"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8W2002B1M4"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8W2002F1M4"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8W501B1M3G"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8W5020F1M"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8W553B1M3"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8WA743"
+    },
+    {
+        "brand": "Masscool",
+        "model": "8WT15-38"
+    },
+    {
+        "brand": "NZXT",
+        "model": "HAVIK 120"
+    },
+    {
+        "brand": "NZXT",
+        "model": "HAVIK 140"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken M22"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X31"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X40"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X41"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X42"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X42 Rev 2"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X52"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X52 Rev 2"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X53"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X53 RGB"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X60"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X61"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X62"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X62 Rev 2"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X63"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X63 RGB"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X72"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X73"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken X73 RGB"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken Z53"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken Z63"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Kraken Z73"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Respire T20"
+    },
+    {
+        "brand": "NZXT",
+        "model": "Respire T40"
+    },
+    {
+        "brand": "Nexus",
+        "model": "FLC-3000 R2"
+    },
+    {
+        "brand": "Nexus",
+        "model": "LOW-7000 R2"
+    },
+    {
+        "brand": "NoFan",
+        "model": "CR-80EH"
+    },
+    {
+        "brand": "NoFan",
+        "model": "CR-95C"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-C12P SE14"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-C14"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-C14S"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D14"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D14 SE2011"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D15"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D15 CHROMAX.BLACK"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D15 SE-AM4"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D15S"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D15S chromax.black"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D9DX i4 3U"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-D9L"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L12"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L12 Ghost S1"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L12S"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9a"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9a-AM4"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9a-AM4 chromax.black"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9i"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9i chromax.black"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9x65"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-L9x65 SE-AM4"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12A"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12DXi4"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12P SE2"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12S"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12S SE-AM4"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12S TR4-SP3"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U12S chromax.black"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U14S"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U14S TR4-SP3"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9 TR4-SP3"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9B SE2"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9DO A3"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9DX 1366"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9DXi4"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9S"
+    },
+    {
+        "brand": "Noctua",
+        "model": "NH-U9S chromax.black"
+    },
+    {
+        "brand": "OcUK",
+        "model": "240mm Extreme"
+    },
+    {
+        "brand": "PC Cooler",
+        "model": "GI-D66A"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC12DX"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC12DX_BK"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC12DX_BL"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC12DX_RD"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC12LS_BK"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC12LS_RGB"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14CS"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14CS_BK"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14CS_BL"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14CS_RD"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14PE"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14PE_BK"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14PE_BL"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14PE_OR"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14PE_RD"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC14S_BK"
+    },
+    {
+        "brand": "Phanteks",
+        "model": "PH-TC90LS"
+    },
+    {
+        "brand": "Phononic",
+        "model": "HEX 2.0"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Basic 45"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Basic 48"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Basic 65"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Basic 68"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Basic 81"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Megahalems (No Fans)"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "Megahalems Rev.B"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-ARMGD"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-GNSS"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-GNSS-BK"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-MGH-B"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-MGH-C"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-PNTH"
+    },
+    {
+        "brand": "Prolimatech",
+        "model": "PRO-SAM17"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "AIDOS"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "AIDOS BLACK"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "DELOS RBW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "EOS 240 RBW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "EOS 360 RBW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "EREBOSS BLACK"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "EREBOSS CORE EDITION"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "EreBoss"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "JUNO PRO RBW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "JUNO-X"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "JUNO-X"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "JUNO-X"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "JUNO-X"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "JUNO-X RGB"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "LETO B"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "LETO R"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "LETO W"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "MYA RBW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 120"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 120 RGW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 140 RGW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 240"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 240 RGW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 280 RGW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 360"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "Orcus 360 RGW"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "PALLAS 120"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "PALLAS 120 RGB"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "PALLAS Black"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "PALLAS Red"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "RHEA"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "THEMIS"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "THEMIS BLACK"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "THEMIS Evo"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "TISIS"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "TISIS CORE EDITION"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "TRITON"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "TRITON BLUE"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "TRITON GREEN"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "TRITON RED"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "model": "ZELOS"
+    },
+    {
+        "brand": "RIOTORO",
+        "model": "BIFROST 120TI"
+    },
+    {
+        "brand": "RIOTORO",
+        "model": "BIFROST 240"
+    },
+    {
+        "brand": "ROCCAT",
+        "model": "ROCC-16003"
+    },
+    {
+        "brand": "Raidmax",
+        "model": "Cobra 240"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Arcziel"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Brontes"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Brontes RC-1001b"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Chrono Guard"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Hans"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Hans RC-1205n"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Justice"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Justice II"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Okeanos"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Ouranos"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Steropes"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Steropes RC-1206b"
+    },
+    {
+        "brand": "Reeven",
+        "model": "Vanxie"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "AIOLOS"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "PB120"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "PB120-RGB"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "PB240"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "PB240-RGB"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z1"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z2"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z300"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z775-LP"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z80-AL"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z90-AL"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-Z90-CP"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "RCX-ZAIO-92"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "ROCC-13001"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "ROCC-16002"
+    },
+    {
+        "brand": "Rosewill",
+        "model": "ROCC-17001"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Ashura"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Ashura Shadow"
+    },
+    {
+        "brand": "Scythe",
+        "model": "BIG Shuriken 2 Rev. B"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Big Shuriken 3"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Choten TUF Gaming Alliance"
+    },
+    {
+        "brand": "Scythe",
+        "model": "FUMA"
+    },
+    {
+        "brand": "Scythe",
+        "model": "FUMA 2"
+    },
+    {
+        "brand": "Scythe",
+        "model": "FUMA Rev.B"
+    },
+    {
+        "brand": "Scythe",
+        "model": "KOTETSU Mark II TUF"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Kabuto 3"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Katana 5"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Kotetsu"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Kotetsu Mark II"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 4"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 5"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 5"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 5 Black RGB Edition"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 5 PCGH Edition"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 5 Rev. B"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen 5 TUF Gaming Alliance"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Mugen MAX"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Ninja 5"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCBSK-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCBSK-2000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCBYK-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCIOR-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCKC-2000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCKC-2100"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCKC-3000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCKDT-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCKTN-4000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCKZT-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCMG-2100"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCMG-3000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCMG-3100"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCMN-2000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCNJ-3000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCNJ-3100"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCNJ-4000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCRT-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCSMZ-2000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCSMZ-2100"
+    },
+    {
+        "brand": "Scythe",
+        "model": "SCYS-1000"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Shuriken 2"
+    },
+    {
+        "brand": "Scythe",
+        "model": "Shuriken Rev. B 3"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-100HA1"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-100HA2"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-120HA3"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-120HA4"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-120HA5"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-80HA3"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-92HA2"
+    },
+    {
+        "brand": "SilenX",
+        "model": "EFZ-92HA3"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Fera 3 EVO ARGB"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Fera 3 HE1224"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Fera 3 HE1224 v2"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Fera 3 RGB HE1224"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Fortis 3 HE1425"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Fortis 3 RGB HE1425"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Grandis 2 XE1436"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Grandis XE1236"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Navis RGB 120"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Navis RGB 240"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Navis RGB 280"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Navis RGB 360"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Spartan 3 LT HE1012"
+    },
+    {
+        "brand": "SilentiumPC",
+        "model": "Spartan LT HE922"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR01"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR01-V2.1"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR02"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR03"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR04"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR05"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR06"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR08"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR08-V2"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "AR11"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Argon AR09-115XP"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Argon AR09-115XS"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Argon AR10-115XP"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Argon AR10-115XS"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "HE01-V2"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "HE02"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "HE02-V2"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Krypton KR01"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Krypton KR02"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT01-E"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT01-PRO"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT06-E"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT06-PRO"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT06-PRO-V2"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT07-1156"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT07-115X"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT07-115X"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT07-775"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT07-AM2"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT08-115X"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "NT09-115X"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "PF120-ARGB"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "PF240-ARGB"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "PF360-ARGB"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "SST-AR07"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "SST-HE01"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD02"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD02-E"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD02-LITE"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD03"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD03-E"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD03-LITE"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "TD03-SLIM"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Tundra SST-TD02-LITE-V2"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Tundra TD02-SLIM"
+    },
+    {
+        "brand": "Silverstone",
+        "model": "Tundra TD02-SLIM-V2"
+    },
+    {
+        "brand": "StarTech",
+        "model": "FAN1156PWM"
+    },
+    {
+        "brand": "StarTech",
+        "model": "FAN7751U"
+    },
+    {
+        "brand": "StarTech",
+        "model": "FAN775E"
+    },
+    {
+        "brand": "StarTech",
+        "model": "FANK8AM2"
+    },
+    {
+        "brand": "Sunbeam",
+        "model": "CR-CCTF"
+    },
+    {
+        "brand": "Sunbeam",
+        "model": "CR-CCTF92-4"
+    },
+    {
+        "brand": "Sunbeam",
+        "model": "Twister 120"
+    },
+    {
+        "brand": "Swiftech",
+        "model": "H140-X"
+    },
+    {
+        "brand": "Swiftech",
+        "model": "H220"
+    },
+    {
+        "brand": "Swiftech",
+        "model": "H220-X"
+    },
+    {
+        "brand": "Swiftech",
+        "model": "H240-X"
+    },
+    {
+        "brand": "Swiftech",
+        "model": "H320"
+    },
+    {
+        "brand": "Syba",
+        "model": "CL-CNL-EOLE802"
+    },
+    {
+        "brand": "TUNIQ",
+        "model": "T-120-LFB"
+    },
+    {
+        "brand": "TUNIQ",
+        "model": "Tower 120"
+    },
+    {
+        "brand": "TUNIQ",
+        "model": "Tower 120 Extreme"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "ARO-M14G"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "ARO-M14O"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-100"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-100 Full Copper"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-100 Muscle"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-100H MUSCLE"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-100R"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-100RH"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "AXP-200 Muscle"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Archon IB-E X2"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "HR-02 Rev.A(BW)"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "HR-22"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Le Grand Macho"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Le Grand Macho RT"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "MACHO 120 REV.A"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "MACHO Rev.C"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho 120 SBM"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho Direct"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho Rev.A(BW)"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho Rev.A."
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho Rev.B"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho X2 Limited Edition"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho Zero"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Macho-120"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "SILVER ARROW IB-E"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Silver Arrow"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Silver Arrow Extreme"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Silver Arrow IB-E Extreme"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Silver Arrow ITX"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "SilverArrow T8"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "SilverArrow TR4"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TRUE Spirit 120M(BW) Rev.A"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TRUE Spirit 140 (BW)"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TRUE Spirit 140 Direct"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TRUE Spirit 140 POWER"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TRUE Spirit 90M Rev.A"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TS-120M"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TS-120M(BW)"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "TS-140"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "U120eXtrem1366RT R-C"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Venomous X - RT"
+    },
+    {
+        "brand": "Thermalright",
+        "model": "Venomous X RT Rev.SB-E"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "A1964"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "A4012-02"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "A4021"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "A4022"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "BigTyp Revo."
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P008-AL09WT-A"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0101"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0187"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0257"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0326"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0401"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0466"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0497"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0503"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-P0508"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-W255-PL12SW-A"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-W256-PL12SW-A"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CL-W257-PL14SW-A"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0527"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0532"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0533"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0534"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0550"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0552"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0554"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0555"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0556"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0556-B"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0574"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0579"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0587"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0596"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0600"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0604"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0605"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0606"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLP0607"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "CLW0214"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Contac 16"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Contac 39"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Contac Silent 12"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Engine 27"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Floe Riing RGB 240 TT Premium Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Floe Riing RGB 280 TT Premium Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Floe Riing RGB 360 TR4 Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Floe Riing RGB 360 TT Premium Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Frio"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Frio OCK"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Frio Silent 12"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Frio Silent 14"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Gravity A1"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Gravity i2"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "MeOrb II"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "NiC C5"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "NiC L31"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "NiC L32"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Riing Silent 12 Blue"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Riing Silent 12 Pro Blue"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Riing Silent 12 Pro Red"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Riing Silent 12 RGB Sync Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Riing Silent 12 Red"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "TH120 ARGB Sync"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "TH240 ARGB Sync"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "UX100"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "UX200 ARGB"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 2.0 Extreme"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 2.0 Performer"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 2.0 Pro"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 120 ARGB Sync"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 240 ARGB Sync"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 360 ARGB Sync Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Extreme"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Extreme S"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Performer"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Performer C + LNC"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Pro"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Riing RGB 240"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Riing RGB 360"
+    },
+    {
+        "brand": "Thermaltake",
+        "model": "Water 3.0 Ultimate"
+    },
+    {
+        "brand": "Titan",
+        "model": "DC-155A915Z/RPW"
+    },
+    {
+        "brand": "Titan",
+        "model": "EC-TTC-NC05TZ"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NA43TZ/CU35"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NC55TZ/RB"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NC85TZ(RB)"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NC95TZ(RB)"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NK35TZ/RPW/V2"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NK54TZ"
+    },
+    {
+        "brand": "Titan",
+        "model": "TTC-NK85TZ/CS2"
+    },
+    {
+        "brand": "Vantec",
+        "model": "VAF-1225"
+    },
+    {
+        "brand": "X2",
+        "model": "ECLIPSE IV"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Aegir SD128264"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Apache II"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Balder SD1283"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Cobra - D984"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "D982"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Dark Knight II SD1283"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Dark Knight S1283V"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Dark Knight SD1283"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Dark Knight SD1483 Frostbourne"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Dark Knight SD1483 Night Hawk"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "EP-CD901"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "EP-CD903"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "GAIA SD1283"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Gaia II"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "HDT-D1284"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "HDT-S1283"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "HDT-S1284F"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "HDT-S963"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "HDT-SD964"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Janus LD1266"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "LOKI SD963"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Loki II"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Praeton LD963"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Prime SD1484"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "Thors Hammer"
+    },
+    {
+        "brand": "Xigmatek",
+        "model": "ld964"
+    },
+    {
+        "brand": "Xion",
+        "model": "XON-HP9310P"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "BTF90"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "CF800-MK III"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "CORE92"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "Nirvana NV120 PWM"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "ZT-1000D 1156"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "ZT-1000D 775"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "ZT-10D"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "ZT-10D Smart"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "ZT-560D"
+    },
+    {
+        "brand": "ZEROtherm",
+        "model": "ZT-570D"
+    },
+    {
+        "brand": "Zalman",
+        "model": "9500A"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS 7500 AlCu LED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS 7500 Cu LED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS 8700 NT"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS 9700 NT"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS10X Extreme"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS10X OPTIMA"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS10X Optima II"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS10X Performa"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS10X QUIET"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS11X Extreme"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS11X Performa"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS12X"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS16X"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS16X"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS17X"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS20LQ"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS20X"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS2X"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS5X Performa"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS5X SZ"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7000-AlCu"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7000C-AlCu"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7000C-Cu"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7000V(AL)-1-PWM"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7000V(AL)-1-PWMB"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7700ALCULED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS7X LED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS8000A"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS8000B"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS80F"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS8900 Extreme"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS8900 Quiet"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS8X Optima"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS90F"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9300 AT"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9500 AT"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9500A-LED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9700 LED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9900 D/F"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9900ALED"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9900MAX-B"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9900MAX-R"
+    },
+    {
+        "brand": "Zalman",
+        "model": "CNPS9900NT"
+    },
+    {
+        "brand": "Zalman",
+        "model": "FX100"
+    },
+    {
+        "brand": "Zalman",
+        "model": "FX70"
+    },
+    {
+        "brand": "Zalman",
+        "model": "LQ-310"
+    },
+    {
+        "brand": "Zalman",
+        "model": "LQ-315"
+    },
+    {
+        "brand": "Zalman",
+        "model": "LQ-320"
+    },
+    {
+        "brand": "Zalman",
+        "model": "Reserator 3 MAX"
+    },
+    {
+        "brand": "Zalman",
+        "model": "Reserator 3 MAX Dual"
+    },
+    {
+        "brand": "Zalman",
+        "model": "ZM-CNPS14X"
+    },
+    {
+        "brand": "Zero Infinity",
+        "model": "Shiva"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock 2"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock 3"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock 4"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock Advanced C1"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock Pro 2"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock Pro 3"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock Pro 4"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock Pro TR4"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock Slim"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Dark Rock TF"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Pure Rock"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Pure Rock 2"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Pure Rock 2 Black"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Pure Rock Slim"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock 2"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock 3"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock 3"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock LP"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock Pro SR1"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock Slim"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock TF 2"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Shadow Rock Topflow SR1"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Silent Loop 120"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Silent Loop 240"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Silent Loop 280"
+    },
+    {
+        "brand": "be quiet!",
+        "model": "Silent Loop 360"
+    },
+    {
+        "brand": "darkFlash",
+        "model": "Shadow PWM"
+    },
+    {
+        "brand": "upHere",
+        "model": "AC12BE"
+    },
+    {
+        "brand": "upHere",
+        "model": "AC12RD"
+    },
+    {
+        "brand": "upHere",
+        "model": "AC12RGB"
+    },
+    {
+        "brand": "upHere",
+        "model": "ACC92CF"
+    },
+    {
+        "brand": "upHere",
+        "model": "ACC92RD"
+    },
+    {
+        "brand": "upHere",
+        "model": "ACC92RGB"
+    },
+    {
+        "brand": "upHere",
+        "model": "C92"
+    },
+    {
+        "brand": "upHere",
+        "model": "CC1201 Red"
+    },
+    {
+        "brand": "upHere",
+        "model": "CC120RGB"
+    },
+    {
+        "brand": "upHere",
+        "model": "CC2401-usa"
+    },
+    {
+        "brand": "upHere",
+        "model": "CC2402-usa"
+    },
+    {
+        "brand": "upHere",
+        "model": "CCF150ARGB"
+    },
+    {
+        "brand": "upHere",
+        "model": "CCF150BE"
+    },
+    {
+        "brand": "upHere",
+        "model": "CCF150CF"
+    },
+    {
+        "brand": "upHere",
+        "model": "CCF150RD"
+    }
+]

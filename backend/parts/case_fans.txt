@@ -1,0 +1,7377 @@
+[
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "ACF8 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX F120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX F120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX F120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX F120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX F140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX F140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX F140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX F140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX P120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX P120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX P120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "BioniX P120"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX P140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX P140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX P140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "BioniX P140"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 PST 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F12 TC"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "F14"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "F14"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "F14 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "F14 PST CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "F14 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "F14 TC"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F8 CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8 PWM PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "F8 TC"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9 PST 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "F9 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9 Pro"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9 Rev. 2"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "92",
+        "model": "F9 TC"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12 PST 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12 PST CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "120",
+        "model": "P12 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14 PST 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14 PST CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "140",
+        "model": "P14 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8 PST"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8 PST 5-Pack"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8 PST CO"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8 Silent"
+    },
+    {
+        "brand": "ARCTIC",
+        "size": "80",
+        "model": "P8 TC"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "AeroFlow"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "80",
+        "model": "Aluminum-Quadro"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "80",
+        "model": "Centaurus I"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "80",
+        "model": "Centaurus III"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "DS"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Dark Force"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "LightWave"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Project 7 RGB 12"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Shark"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "200",
+        "model": "Silent Master"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "200",
+        "model": "Silent Master"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Streamliner"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "140",
+        "model": "Streamliner"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "TURBINE 3000"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "Turbine 1000"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "120",
+        "model": "V12 BlackLine Edition"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "80",
+        "model": "X-Blaster"
+    },
+    {
+        "brand": "Aerocool",
+        "size": "80",
+        "model": "X-Static"
+    },
+    {
+        "brand": "Akasa",
+        "size": "80",
+        "model": "AK-170CC-4RAS"
+    },
+    {
+        "brand": "Akasa",
+        "size": "120",
+        "model": "AK-274CC-4RAS"
+    },
+    {
+        "brand": "Akasa",
+        "size": "140",
+        "model": "Apache Black"
+    },
+    {
+        "brand": "Akasa",
+        "size": "120",
+        "model": "Apache Black"
+    },
+    {
+        "brand": "Akasa",
+        "size": "120",
+        "model": "Piranha"
+    },
+    {
+        "brand": "Akasa",
+        "size": "120",
+        "model": "Viper"
+    },
+    {
+        "brand": "Akasa",
+        "size": "140",
+        "model": "Viper"
+    },
+    {
+        "brand": "Akasa",
+        "size": "140",
+        "model": "Viper"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "140",
+        "model": "Wing Boost 3 ARGB"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB 3-Pack"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "140",
+        "model": "Wing Boost 3 ARGB 3-Pack"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB 3-Pack"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB 3-Pack"
+    },
+    {
+        "brand": "Alpenf\u00f6hn",
+        "size": "120",
+        "model": "Wing Boost 3 ARGB 3-Pack"
+    },
+    {
+        "brand": "Anidees",
+        "size": "120",
+        "model": "AI AUREOLA 3-Pack"
+    },
+    {
+        "brand": "Anidees",
+        "size": "140",
+        "model": "AI AUREOLA 3-Pack"
+    },
+    {
+        "brand": "Anidees",
+        "size": "140",
+        "model": "AI Aureola Duo 3-Pack"
+    },
+    {
+        "brand": "Anidees",
+        "size": "120",
+        "model": "AI Halo"
+    },
+    {
+        "brand": "Anidees",
+        "size": "120",
+        "model": "AI Prismatic 3-Pack"
+    },
+    {
+        "brand": "Anidees",
+        "size": "120",
+        "model": "AI Tesseract 3-Pack"
+    },
+    {
+        "brand": "Anidees",
+        "size": "140",
+        "model": "AI-FAN 2-Pack"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "75000"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "75001"
+    },
+    {
+        "brand": "Antec",
+        "size": "92",
+        "model": "75002"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "75003"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "75003"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "75024"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "75026"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "75080"
+    },
+    {
+        "brand": "Antec",
+        "size": "92",
+        "model": "75093"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "75120"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "75121"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "761345-75020-2"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "761345-75081-3"
+    },
+    {
+        "brand": "Antec",
+        "size": "92",
+        "model": "761345-75092-9"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "77095"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "77095"
+    },
+    {
+        "brand": "Antec",
+        "size": "200",
+        "model": "BIGBOY200"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "LED80XFAN"
+    },
+    {
+        "brand": "Antec",
+        "size": "92",
+        "model": "PRO DBB"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "Prizm"
+    },
+    {
+        "brand": "Antec",
+        "size": "140",
+        "model": "Prizm"
+    },
+    {
+        "brand": "Antec",
+        "size": "140",
+        "model": "Prizm 2+C 2-Pack"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "Prizm 3+2+C 3-Pack"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "Prizm 5+C 5-Pack"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "SPARK"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "TRICOOL"
+    },
+    {
+        "brand": "Antec",
+        "size": "92",
+        "model": "TRICOOL"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "TRICOOL"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "TRICOOL"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "TRICOOL"
+    },
+    {
+        "brand": "Antec",
+        "size": "80",
+        "model": "TRICOOL"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "140",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "True Quiet"
+    },
+    {
+        "brand": "Antec",
+        "size": "120",
+        "model": "Two Cool"
+    },
+    {
+        "brand": "Antec",
+        "size": "140",
+        "model": "Two Cool"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "12S-BK"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "14S-BT"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "14SL-BL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "14SL-GN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "14SL-RD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "312L-DMC 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "312S-BK"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "412L-RGB Spectra 4-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "512L-DMC 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "AF312L-SMC 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "AF512L-BL 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "AF512L-RD 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "AF512L-SMC 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "C 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12S"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12S-BK"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12S-UBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-4C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-B4C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-BBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-BGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-BRD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-SBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-SGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-SOG"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-SRD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-T4C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-TBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-TGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-TRD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-UBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-UGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF12SL-URED"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "CF14S-BK"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "CF14SL-B4C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "CF14SL-BBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "CF14SL-BGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "CF14SL-BRD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "140",
+        "model": "CF14SL-UBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "200",
+        "model": "CF20SL-UBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "200",
+        "model": "CF20SL-UGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "200",
+        "model": "CF20SL-URD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF308SL-BRD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF312S-BK"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF312SL-UBL 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF312SL-UGN 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "CF312SL-URD 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF4S-BK"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF4S-UBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF4SL-4C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF4SL-UBL-LED"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF4SL-UGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF4SL-URED"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8S"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8S-UBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8S-UGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8SL-B4C"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8SL-BBL"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8SL-BGN"
+    },
+    {
+        "brand": "Apevia",
+        "size": "80",
+        "model": "CF8SL-BRD"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "FrostBlade 4-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "FrostBlade 4-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "FrostBlade 6-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "S"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "S 2-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "S 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "S 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "S 5-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "Spectra 6-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "U 2-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "U 3-Pack"
+    },
+    {
+        "brand": "Apevia",
+        "size": "120",
+        "model": "U 5-Pack"
+    },
+    {
+        "brand": "Asiahorse",
+        "size": "120",
+        "model": "FS-N001 3-Pack"
+    },
+    {
+        "brand": "Azza",
+        "size": "120",
+        "model": "Hurricane"
+    },
+    {
+        "brand": "Azza",
+        "size": "120",
+        "model": "Hurricane 3-Pack"
+    },
+    {
+        "brand": "Azza",
+        "size": "120",
+        "model": "Hurricane 6-Pack"
+    },
+    {
+        "brand": "Azza",
+        "size": "120",
+        "model": "Hurricane Lite 3-Pack"
+    },
+    {
+        "brand": "BGears",
+        "size": "140",
+        "model": "b-Blaster 140x38"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro All White"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "140",
+        "model": "Spectre Pro All White"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro All White"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "200",
+        "model": "Spectre Pro All White"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "230",
+        "model": "Spectre Pro All White"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Xtreme"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Xtreme"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Xtreme"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Xtreme"
+    },
+    {
+        "brand": "BitFenix",
+        "size": "120",
+        "model": "Spectre Xtreme"
+    },
+    {
+        "brand": "Bitspower",
+        "size": "120",
+        "model": "NJord Dual Fin 3-Pack"
+    },
+    {
+        "brand": "Bitspower",
+        "size": "120",
+        "model": "Touchaqua NJORD RGB 3-Pack"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "140",
+        "model": "QF Performance"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "140",
+        "model": "QF Silent"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "120",
+        "model": "QF120 Balance"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "120",
+        "model": "QF120 Balance"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "120",
+        "model": "QF120 Performance"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "120",
+        "model": "QF120 Performance"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "120",
+        "model": "QF120 Silent"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "120",
+        "model": "QF120 Silent"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "140",
+        "model": "XF140"
+    },
+    {
+        "brand": "CRYORIG",
+        "size": "140",
+        "model": "XT140"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "Blade Master"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "92",
+        "model": "Blade Master"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "80",
+        "model": "Blade Master"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "Excalibur"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "JetFlo"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "JetFlo"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Lite"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan MF Halo"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan MF Halo 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan MF120R"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan MF120R 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "MasterFan MF140R"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "200",
+        "model": "MasterFan MF200R"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan MFL RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan MFR RGB"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Balance"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Balance"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Balance 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "MasterFan Pro Air Flow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Flow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Flow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "MasterFan Pro Air Flow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "MasterFan Pro Air Flow 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Flow 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "MasterFan Pro Air Pressure"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "MasterFan Pro Air Pressure"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Pressure"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Pressure"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan Pro Air Pressure 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan SF120P"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan SF120R"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan SF120R"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan SFM"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "MasterFan SFR"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "200",
+        "model": "Megaflow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "200",
+        "model": "Megaflow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "200",
+        "model": "Megaflow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "80",
+        "model": "R4-BC8R-18FB-R1"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "R4-C2R-20AC-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "R4-L2S-122B-GP 2-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "R4-L4S-10AB-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "R4-S2S-124K-GP 4-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "R4-S4S-10AK-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "80",
+        "model": "R4-S8R-20AK-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "92",
+        "model": "R4-S9S-19AK-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "80",
+        "model": "R4-SPS-20AK-GP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "80",
+        "model": "SAF-B82-E1"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "80",
+        "model": "SAF-B83-E1"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "140",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "SickleFlow 3-Pack"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "Silencio FP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "Silencio FP"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "Super Fan"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "Turbine Master Mach 1.8"
+    },
+    {
+        "brand": "Cooler Master",
+        "size": "120",
+        "model": "XtraFlo"
+    },
+    {
+        "brand": "Coolink",
+        "size": "92",
+        "model": "SWiF2-92P"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 (2018)"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 (2018) 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 (2018) 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 (2018) 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Performance"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Performance 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Quiet 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "AF120 Quiet 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140 (2018)"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140 (2018)"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140 (2018) 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "AF140L"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "HD120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "HD120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "HD120 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "HD140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "HD140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "LL120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "LL120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "LL120 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "LL120 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "LL140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "LL140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 PRO"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 PRO 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "ML120 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 PRO"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 PRO 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "ML140 Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 High Performance"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 High Performance"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 High Performance"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 High Performance 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 High Performance Edition"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 Quiet"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 Quiet 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "SP120 Quiet 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "SP140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "iCUE QL120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "iCUE QL120"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "iCUE QL120 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "iCUE QL120 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "iCUE QL140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "iCUE QL140"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "iCUE QL140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "iCUE QL140 2-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "iCUE SP120 RGB Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "120",
+        "model": "iCUE SP120 RGB Pro 3-Pack"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "iCUE SP140 RGB Pro"
+    },
+    {
+        "brand": "Corsair",
+        "size": "140",
+        "model": "iCUE SP140 RGB Pro 2-Pack"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "CFD"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "CFD"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "CFD"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "CFD"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "CFD 4-Pack"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Dual-X"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Dual-X"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Dual-X"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Dual-X"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Dual-X"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Turbine"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Turbine 4-Pack"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "VORTEX FCB"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "VORTEX SPB"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "VORTEX SPB 3-Pack"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Cougar",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "CF"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "CF"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "CF 2-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "CF 3-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "GF"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "GF 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "GF 140"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "GF 140"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "GS 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "Ice Blade"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "MF 3-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "MF GT 3-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "MF120S 3-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "RF"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "RF 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "RF 120 3-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "RF 2-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "RF120M 5-Pack"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "TF 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "TF 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "TF 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "UF 120"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "140",
+        "model": "UF 140"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "80",
+        "model": "UF 80"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "80",
+        "model": "Wind Blade"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "Wind Blade"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "200",
+        "model": "XFAN"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "40",
+        "model": "XFAN"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "80",
+        "model": "XFAN"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "XFAN"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "XFAN"
+    },
+    {
+        "brand": "Deepcool",
+        "size": "120",
+        "model": "XFAN"
+    },
+    {
+        "brand": "Delta Electronics",
+        "size": "120",
+        "model": "AFB1212GHE-CF00"
+    },
+    {
+        "brand": "Delta Electronics",
+        "size": "120",
+        "model": "AFB1212HHE-F00"
+    },
+    {
+        "brand": "Delta Electronics",
+        "size": "92",
+        "model": "FFB0912SH-F00"
+    },
+    {
+        "brand": "Delta Electronics",
+        "size": "120",
+        "model": "FFB1212EH-F00"
+    },
+    {
+        "brand": "Delta Electronics",
+        "size": "120",
+        "model": "FFB1212EHE-F00"
+    },
+    {
+        "brand": "Delta Electronics",
+        "size": "92",
+        "model": "PFB0912DHE-F00"
+    },
+    {
+        "brand": "EK",
+        "size": "140",
+        "model": "EK-Vardar EVO 140ER"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Furious Vardar EVO"
+    },
+    {
+        "brand": "EK",
+        "size": "140",
+        "model": "Furious Vardar FF4"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Furious Vardar FF5"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar EVO 120ER"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar EVO 120ER 2-Pack"
+    },
+    {
+        "brand": "EK",
+        "size": "140",
+        "model": "Vardar F1"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar F1"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar F2"
+    },
+    {
+        "brand": "EK",
+        "size": "140",
+        "model": "Vardar F2"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar F3"
+    },
+    {
+        "brand": "EK",
+        "size": "140",
+        "model": "Vardar F3-140ER"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar F4"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar F4-120ER"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar F4-120ER"
+    },
+    {
+        "brand": "EK",
+        "size": "120",
+        "model": "Vardar X3M 120ER"
+    },
+    {
+        "brand": "EVGA",
+        "size": "120",
+        "model": "400-HY-FX12-KR"
+    },
+    {
+        "brand": "EVGA",
+        "size": "140",
+        "model": "400-HY-FX13-KR"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "Cluster Adv"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "D.F. Pressure"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "D.F. Storm"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "D.F. VEGAS"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "D.F. VEGAS 2-Pack"
+    },
+    {
+        "brand": "Enermax",
+        "size": "80",
+        "model": "D.F. Vegas Duo"
+    },
+    {
+        "brand": "Enermax",
+        "size": "140",
+        "model": "D.F. Vegas Duo"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "D.F. Vegas Duo"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "D.F. Vegas Duo 2-Pack"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "Everest Advance"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "Magma"
+    },
+    {
+        "brand": "Enermax",
+        "size": "80",
+        "model": "Magma"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "Magma Advance"
+    },
+    {
+        "brand": "Enermax",
+        "size": "80",
+        "model": "Magma Advance"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "Marathon"
+    },
+    {
+        "brand": "Enermax",
+        "size": "80",
+        "model": "Marathon"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "SquA RGB 3-Pack"
+    },
+    {
+        "brand": "Enermax",
+        "size": "180",
+        "model": "T.B. Apollish"
+    },
+    {
+        "brand": "Enermax",
+        "size": "180",
+        "model": "T.B. Apollish"
+    },
+    {
+        "brand": "Enermax",
+        "size": "140",
+        "model": "T.B. Apollish"
+    },
+    {
+        "brand": "Enermax",
+        "size": "140",
+        "model": "T.B. RGB"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. RGB"
+    },
+    {
+        "brand": "Enermax",
+        "size": "140",
+        "model": "T.B. RGB 2-Pack"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. RGB 3-Pack"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. RGB 6-Pack"
+    },
+    {
+        "brand": "Enermax",
+        "size": "140",
+        "model": "T.B. Silence"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Silence"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Silence"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Silence"
+    },
+    {
+        "brand": "Enermax",
+        "size": "92",
+        "model": "T.B. Silence"
+    },
+    {
+        "brand": "Enermax",
+        "size": "80",
+        "model": "T.B. Silence"
+    },
+    {
+        "brand": "Enermax",
+        "size": "140",
+        "model": "T.B. Silence Adv"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Silence Adv"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Vegas Quad"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Vegas Single"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Vegas Single"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Vegas Single"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "T.B. Vegas Trio"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "Twister Storm"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "UCCL12N"
+    },
+    {
+        "brand": "Enermax",
+        "size": "120",
+        "model": "UCTP12P"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "1225H12B-Y21"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "CL8035/LD2"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "CL8035/LD3"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "EC-8038"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "EC-SSF-12"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "EC12025M12S"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "EC4010TH12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "EC4015SH12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "EC4020SH12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "EC4028HH12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "EC8038HH12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "EC9238H12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "Evergreen"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "Evergreen"
+    },
+    {
+        "brand": "Evercool",
+        "size": "140",
+        "model": "Evergreen"
+    },
+    {
+        "brand": "Evercool",
+        "size": "140",
+        "model": "Evergreen"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "Evergreen"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "F-EC12038HH12BP"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "F-EC1225A1HBT"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "F-EC1238A1HBT-7"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "F-EC9733H12BA-B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "FAN-AL12025B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-AL8025B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "FAN-AL9025B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "FAN-ALED12025B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "FAN-ALED12025B2"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-ALED8025B2"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "FAN-ALED9225B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "FAN-EC12025M12C"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "FAN-EC12038M12B"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "FAN-EC1225M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "140",
+        "model": "FAN-EC1425L12EA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "FAN-EC4007M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "FAN-EC4010M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "40",
+        "model": "FAN-EC4020M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-EC8015M05CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-EC8015M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-EC8020M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-EC8025M05CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "FAN-EC8025M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "FAN-EC9225M12CA"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "FAN-LD9225B-EC1"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "FAN-LD9225B-EC2"
+    },
+    {
+        "brand": "Evercool",
+        "size": "140",
+        "model": "RSF-14"
+    },
+    {
+        "brand": "Evercool",
+        "size": "80",
+        "model": "Spider Filter"
+    },
+    {
+        "brand": "Evercool",
+        "size": "92",
+        "model": "Spider Filter"
+    },
+    {
+        "brand": "Evercool",
+        "size": "120",
+        "model": "Spider Filter"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Dynamic GP"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Dynamic GP-12"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Dynamic GP-12"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Dynamic GP-14"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Dynamic X2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Dynamic X2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Dynamic X2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Dynamic X2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Dynamic X2 GP"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Dynamic X2 GP-12"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Dynamic X2 GP-14"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Dynamic X2 GP-14"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Prisma AL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Prisma AL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma AL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma AL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma AL 3-Pack"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Prisma AL 3-Pack"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Prisma AL 3-Pack"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma AL 3-Pack"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma SL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Prisma SL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Prisma SL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma SL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Prisma SL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Silent LL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Silent LL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Silent LL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Silent LL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Silent LL"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "92",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "40",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "80",
+        "model": "Silent R2"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Silent R3"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "92",
+        "model": "Silent R3"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Silent R3"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "80",
+        "model": "Silent R3"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Venturi"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Venturi"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Venturi"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Venturi HF-12"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Venturi HF-14"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "120",
+        "model": "Venturi HP-12"
+    },
+    {
+        "brand": "Fractal Design",
+        "size": "140",
+        "model": "Venturi HP-14"
+    },
+    {
+        "brand": "GAMDIAS",
+        "size": "120",
+        "model": "AEOLus M1"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Cyclone RGB"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Eclipse RGB"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Mirage RGB"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Mirage White Fins"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Razor ARGB"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Storm Force RGB"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Velocity ARGB"
+    },
+    {
+        "brand": "GameMax",
+        "size": "120",
+        "model": "Velocity ARGB"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "80",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "92",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "80",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "40",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "92",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "140",
+        "model": "Silent"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Silent TC"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "92",
+        "model": "Silent TC"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "80",
+        "model": "Silent TC"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Slim"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Slim"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Wing"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "80",
+        "model": "Wing"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "92",
+        "model": "Wing"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "140",
+        "model": "Wing"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "92",
+        "model": "Wing"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "80",
+        "model": "Wing"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Wing PL"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Wing PL"
+    },
+    {
+        "brand": "Gelid Solutions",
+        "size": "120",
+        "model": "Wing PL"
+    },
+    {
+        "brand": "HBT+",
+        "size": "140",
+        "model": "AXE"
+    },
+    {
+        "brand": "ID-COOLING",
+        "size": "120",
+        "model": "SF-12025-RGB 3-Pack"
+    },
+    {
+        "brand": "ID-COOLING",
+        "size": "120",
+        "model": "ZF-12025-PINK"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "AURORA 3-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "AURORA 3-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "CROWN AC120 2-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "140",
+        "model": "CROWN AC140 2-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Jupiter AJ120"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Jupiter AJ120 3-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "MARS"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "MARS"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Polaris 2-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Saturn ASN120"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Saturn ASN120 3-Pack"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Sirius Loop ASL"
+    },
+    {
+        "brand": "In Win",
+        "size": "120",
+        "model": "Sirius Loop ASL 3-Pack"
+    },
+    {
+        "brand": "Insignia",
+        "size": "120",
+        "model": "NS-PCF1250"
+    },
+    {
+        "brand": "Insignia",
+        "size": "80",
+        "model": "NS-PCF8050"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CF-012LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CF-012LBR"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CF-012LBW"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "140",
+        "model": "CF-014LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "80",
+        "model": "CF-08LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "200",
+        "model": "CFBL-020LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "80",
+        "model": "CFBL-08LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CFGN-012LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CFMC-012LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CFR-012LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CFW-012LB"
+    },
+    {
+        "brand": "Kingwin",
+        "size": "120",
+        "model": "CFY-012LB"
+    },
+    {
+        "brand": "LC-Power",
+        "size": "120",
+        "model": "LC-CF-120-PRO"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "Casino"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "Casino"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "LP-BOL12P-BL"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "LP-BOL12P-R"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "LP-BOL12R"
+    },
+    {
+        "brand": "LEPA",
+        "size": "80",
+        "model": "LP70D08R"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "LP70D12R"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "LPCP12N-BL"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "LPCP12N-R"
+    },
+    {
+        "brand": "LEPA",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "LEPA",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "40",
+        "model": "AFB0412LB-F00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "80",
+        "model": "AFB0812LB-F00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "80",
+        "model": "AFB0812SH-F00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "80",
+        "model": "AFB0812SH-M"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "120",
+        "model": "AFB1212H-R00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "120",
+        "model": "AFB1212SHE-PWM"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "92",
+        "model": "AFC0912D-PWM"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "120",
+        "model": "AFC1212D-PWM"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "80",
+        "model": "AUB0812HH-M"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "40",
+        "model": "FFB0412SHN-F00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "40",
+        "model": "FFB0412VHN-F00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "120",
+        "model": "FFB1212EH-PWM"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "40",
+        "model": "FN-FBK04F12U"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "80",
+        "model": "H80E12MS1B7-57A02"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "80",
+        "model": "H80E12MS1B7-PWM"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "40",
+        "model": "HA40201V4-0000-C99"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "92",
+        "model": "M35172-57"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "120",
+        "model": "PFB1212UHE-F00"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "120",
+        "model": "QFR1212GHE-PWM"
+    },
+    {
+        "brand": "Lamptron",
+        "size": "92",
+        "model": "T92E12BMA7-PWM"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "Bora 3-Pack"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "Bora Lite 3-Pack"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "Bora Lite 3-Pack"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "UNI SL120"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "UNI SL120"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "UNI SL120 3-Pack"
+    },
+    {
+        "brand": "Lian Li",
+        "size": "120",
+        "model": "UNI SL120 3-Pack"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "CCF80BL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "CCF80UVBL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "CCF80UVGN"
+    },
+    {
+        "brand": "Logisys",
+        "size": "120",
+        "model": "CF120BL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "120",
+        "model": "CF120DCA"
+    },
+    {
+        "brand": "Logisys",
+        "size": "120",
+        "model": "CF120GB"
+    },
+    {
+        "brand": "Logisys",
+        "size": "120",
+        "model": "CF120GN"
+    },
+    {
+        "brand": "Logisys",
+        "size": "120",
+        "model": "CF120RD"
+    },
+    {
+        "brand": "Logisys",
+        "size": "140",
+        "model": "CF140BL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "CF80GB"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT400BL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT400GN"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT400PL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT400RD"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT80UVBL"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT80UVGN"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "LT80UVRD"
+    },
+    {
+        "brand": "Logisys",
+        "size": "120",
+        "model": "SF120"
+    },
+    {
+        "brand": "Logisys",
+        "size": "140",
+        "model": "SF140"
+    },
+    {
+        "brand": "Logisys",
+        "size": "80",
+        "model": "SF80"
+    },
+    {
+        "brand": "MSI",
+        "size": "120",
+        "model": "Torx"
+    },
+    {
+        "brand": "Mars Gaming",
+        "size": "120",
+        "model": "MFRGBKIT 3-Pack"
+    },
+    {
+        "brand": "Masscool",
+        "size": "70",
+        "model": "9025B1M3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "80",
+        "model": "BLD-08025S1M"
+    },
+    {
+        "brand": "Masscool",
+        "size": "92",
+        "model": "BLD-09025S1M"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "BLD-12025V1"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "BLD-12025V1G"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "BLD-12025V1R"
+    },
+    {
+        "brand": "Masscool",
+        "size": "140",
+        "model": "BLD-14025S1L"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "BLD12025S1M"
+    },
+    {
+        "brand": "Masscool",
+        "size": "80",
+        "model": "FD08025B1H3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "80",
+        "model": "FD08025B1M3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "80",
+        "model": "FD08025S1M4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "FD12025B1H3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "FD12025B1L3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "FD12025S1L3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "FD12038S1M3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "140",
+        "model": "FD14025S1L3/4"
+    },
+    {
+        "brand": "Masscool",
+        "size": "80",
+        "model": "FDC08025S1M"
+    },
+    {
+        "brand": "Masscool",
+        "size": "140",
+        "model": "FDC14025S1L"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "FDV12025L1L34"
+    },
+    {
+        "brand": "Masscool",
+        "size": "120",
+        "model": "FDVB12025L1L"
+    },
+    {
+        "brand": "Masscool",
+        "size": "140",
+        "model": "SL-FD14025"
+    },
+    {
+        "brand": "Metallic Gear",
+        "size": "120",
+        "model": "Skiron"
+    },
+    {
+        "brand": "Metallic Gear",
+        "size": "140",
+        "model": "Skiron"
+    },
+    {
+        "brand": "Metallic Gear",
+        "size": "140",
+        "model": "Skiron"
+    },
+    {
+        "brand": "Metallic Gear",
+        "size": "120",
+        "model": "Skiron"
+    },
+    {
+        "brand": "Metallic Gear",
+        "size": "120",
+        "model": "Skiron"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "AER RGB 2"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "AER RGB 2"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "AER RGB 2 2-Pack"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "AER RGB 2 2-Pack"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "AER RGB 2 3-Pack"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Aer F"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Aer F"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Aer F"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Aer F 2-Pack"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Aer P"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Aer P"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Aer RGB"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Aer RGB"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Aer RGB 3-Pack"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Aer RGB 3-Pack"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Air Flow"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Air Flow"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Air Flow"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "Air Flow"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Air Flow"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "Air Flow"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "FN"
+    },
+    {
+        "brand": "NZXT",
+        "size": "200",
+        "model": "FN"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "FN V2"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "FN V2"
+    },
+    {
+        "brand": "NZXT",
+        "size": "193",
+        "model": "FS"
+    },
+    {
+        "brand": "NZXT",
+        "size": "193",
+        "model": "FS"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "FX"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "FX"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "FX"
+    },
+    {
+        "brand": "NZXT",
+        "size": "140",
+        "model": "FX V2"
+    },
+    {
+        "brand": "NZXT",
+        "size": "200",
+        "model": "FZ"
+    },
+    {
+        "brand": "NZXT",
+        "size": "120",
+        "model": "FZ"
+    },
+    {
+        "brand": "NZXT",
+        "size": "200",
+        "model": "FZ"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "80",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "120",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "140",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "92",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "140",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "120",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "140",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "92",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "140",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "120",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nanoxia",
+        "size": "120",
+        "model": "Deep Silence"
+    },
+    {
+        "brand": "Nexus",
+        "size": "120",
+        "model": "D12SL-12"
+    },
+    {
+        "brand": "Nexus",
+        "size": "120",
+        "model": "D12SL-12BL"
+    },
+    {
+        "brand": "Nexus",
+        "size": "120",
+        "model": "D12SL-12PWM"
+    },
+    {
+        "brand": "Nexus",
+        "size": "120",
+        "model": "D12SL-12WL"
+    },
+    {
+        "brand": "Nexus",
+        "size": "140",
+        "model": "D14SL-14"
+    },
+    {
+        "brand": "Nexus",
+        "size": "92",
+        "model": "DF1209SL-3"
+    },
+    {
+        "brand": "Nexus",
+        "size": "92",
+        "model": "DF1209SL-3PWM"
+    },
+    {
+        "brand": "Nexus",
+        "size": "80",
+        "model": "SP802512H-03PWM"
+    },
+    {
+        "brand": "Nexus",
+        "size": "80",
+        "model": "SP802512L-03"
+    },
+    {
+        "brand": "Nidec Servo",
+        "size": "120",
+        "model": "Gentle Typhoon"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "A12x15 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "A12x15 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "A12x15 PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "A12x25 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "A12x25 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "A12x25 ULN"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 ULN"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 industrialPPC-2000"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 industrialPPC-2000 IP67 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 industrialPPC-2000 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A14 industrialPPC-3000 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A15 HS-PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "A15 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "200",
+        "model": "A20 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "200",
+        "model": "A20 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "200",
+        "model": "A20 PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "40",
+        "model": "A4x10"
+    },
+    {
+        "brand": "Noctua",
+        "size": "40",
+        "model": "A4x10 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "40",
+        "model": "A4x20 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "A8 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "A8 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "A8 PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "A9 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "A9 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "A9 PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "A9x14"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "A9x14 HS-PWM chromax.Black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "B9 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "B9 redux-1600"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "B9 redux-1600 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "92",
+        "model": "B9-1600"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "F12 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "F12 PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "F12 industrialPPC-2000"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "F12 industrialPPC-2000 IP67 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "F12 industrialPPC-2000 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "F12 industrialPPC-3000 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "P12 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "P12 redux-1300"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "P12 redux-1300 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "P12 redux-1700 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "P12 redux-900"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "P12-1300"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "P14 FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "P14r redux-1500 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "P14s redux-1200"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "P14s redux-1200 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "P14s redux-1500 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "140",
+        "model": "P14s redux-900"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "R8 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "R8 redux-1200"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "R8 redux-1800"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "R8 redux-1800 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "80",
+        "model": "R8-1800"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12A FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12A PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12A PWM chromax.black.swap"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12A ULN"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12B FLX"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12B redux-1200"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12B redux-1200 PWM"
+    },
+    {
+        "brand": "Noctua",
+        "size": "120",
+        "model": "S12B redux-700"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "Black Silent Pro PK-HP"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "BlackSilentFan X-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "BlackSilentFan X-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "BlackSilentFan X-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "92",
+        "model": "BlackSilentFan X-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "40",
+        "model": "BlackSilentFan X-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "BlackSilentFan X-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "BlackSilentFan X-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "92",
+        "model": "BlackSilentFan X-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "BlackSilentFan X-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "40",
+        "model": "BlackSilentFan X-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "BlackSilentFan X-P"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "92",
+        "model": "BlackSilentPro P-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "BlackSilentPro P-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "BlackSilentPro P-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "40",
+        "model": "BlackSilentPro P-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "BlackSilentPro P-1"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "BlackSilentPro P-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "BlackSilentPro P-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "40",
+        "model": "BlackSilentPro P-2"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "BlackSilentPro P-3"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "BlackSilentPro P-P"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "BlackSilentPro P-P"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "92",
+        "model": "BlackSilentPro P-P"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "BlackSilentPro P-P"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "BlackSilentPro PC-P"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "ELoop B"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "80",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "Multiframe"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "NB-ELOOP X ARGB"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "NB-ELOOP X ARGB"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "NB-ELOOP X ARGB"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "NB-ELOOP X ARGB"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "120",
+        "model": "NB-ELOOP X ARGB"
+    },
+    {
+        "brand": "NoiseBlocker",
+        "size": "140",
+        "model": "NB-ELOOP X ARGB"
+    },
+    {
+        "brand": "PC Cooler",
+        "size": "120",
+        "model": "Moonlight 5-Pack"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120MP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120MP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "F120XP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140HP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140HP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140HP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140HP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140HP II"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140HP II"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140MP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140MP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140TS"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140TS"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140TS"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140TS"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "F140XP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "200",
+        "model": "F200SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "200",
+        "model": "F200SP"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "FSK"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "140",
+        "model": "FSK 3-Pack"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "PH-F120SK"
+    },
+    {
+        "brand": "Phanteks",
+        "size": "120",
+        "model": "PH-F120SK"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "140",
+        "model": "Ultra Sleek Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "120",
+        "model": "Ultra Sleek Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "120",
+        "model": "Ultra Sleek Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "120",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "Prolimatech",
+        "size": "140",
+        "model": "Vortex"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "size": "120",
+        "model": "IRIS 12 RBW ADD-1"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "size": "120",
+        "model": "IRIS 12 RBW ADD-2 2-Pack"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "size": "120",
+        "model": "IRIS 12 RBW ADD-3 3-Pack"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "size": "120",
+        "model": "Iris"
+    },
+    {
+        "brand": "RAIJINTEK",
+        "size": "120",
+        "model": "Iris"
+    },
+    {
+        "brand": "RIOTORO",
+        "size": "120",
+        "model": "Cross-X Classic"
+    },
+    {
+        "brand": "RIOTORO",
+        "size": "120",
+        "model": "Prism 2-Pack"
+    },
+    {
+        "brand": "Raidmax",
+        "size": "120",
+        "model": "NV-R120TP"
+    },
+    {
+        "brand": "Raidmax",
+        "size": "120",
+        "model": "RX-120SR-G"
+    },
+    {
+        "brand": "Raidmax",
+        "size": "120",
+        "model": "RX-120SR-GY"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "140",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "140",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "140",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "140",
+        "model": "Coldwing"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Reeven",
+        "size": "120",
+        "model": "Euros"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "Hyperborea"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "Hyperborea"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RABF-131209"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RABF-131409"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RABL-131209B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RABL-131209R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RASF-141213"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RAWB-131456"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RAWP-141209"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RAWP-141411"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RAWR-141209"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "220",
+        "model": "RCA-220-BL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA-120-BL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA-120-K"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA-120-RL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA-120-WL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "80",
+        "model": "RFA-80-BL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "80",
+        "model": "RFA-80-K"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "80",
+        "model": "RFA-80-RL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "80",
+        "model": "RFA-80-WL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA-BL1201"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA-RL1201"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFA120L-B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFBF-131411"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFBL-131411B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFBL-131411R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFTL-131209B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFTL-131209R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFTL-131409B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFTL-131409R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFTL-131411B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RFTL-131411R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFX-120"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RFX-120BL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "80",
+        "model": "RFX-80"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "80",
+        "model": "RFX-80BL"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RGBF-17002 2-Pack"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RGBF-17003"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RGBF-S12001 3-Pack"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RNBD-131409"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RNBF-131209"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RNBL-131209B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RNBL-131209R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RNBL-131409B"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "140",
+        "model": "RNBL-131409R"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "ROCF-13001"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "ROCF-13002"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RWCB-1612"
+    },
+    {
+        "brand": "Rosewill",
+        "size": "120",
+        "model": "RWCR-1612"
+    },
+    {
+        "brand": "SHARKOON",
+        "size": "120",
+        "model": "RGB SHARK Lights"
+    },
+    {
+        "brand": "SHARKOON",
+        "size": "120",
+        "model": "Shark Blade"
+    },
+    {
+        "brand": "SHARKOON",
+        "size": "120",
+        "model": "Shark Blade"
+    },
+    {
+        "brand": "SHARKOON",
+        "size": "120",
+        "model": "Shark Blade"
+    },
+    {
+        "brand": "SHARKOON",
+        "size": "120",
+        "model": "Shark Blade"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Gentle Typhoon"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Gentle Typhoon"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Gentle Typhoon"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Gentle Typhoon"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Gentle Typhoon"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "GlideStream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "GlideStream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "GlideStream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "GlideStream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Grand Flex"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex RGB"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex Slim"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex Slim"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex Slim"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex Slim"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex Slim"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Kaze Flex Slim"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "Kaze Flex Square"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "140",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "Scythe",
+        "size": "120",
+        "model": "Slipstream"
+    },
+    {
+        "brand": "SilenX",
+        "size": "80",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "140",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "120",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "80",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "120",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "92",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "120",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "120",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "80",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "120",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "92",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "80",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "80",
+        "model": "Effizio"
+    },
+    {
+        "brand": "SilenX",
+        "size": "40",
+        "model": "Ixtrema Pro"
+    },
+    {
+        "brand": "SilenX",
+        "size": "120",
+        "model": "Ixtrema Pro"
+    },
+    {
+        "brand": "SilenX",
+        "size": "40",
+        "model": "Ixtrema Pro"
+    },
+    {
+        "brand": "SilenX",
+        "size": "80",
+        "model": "Ixtrema Pro"
+    },
+    {
+        "brand": "SilentiumPC",
+        "size": "140",
+        "model": "Mistral 140"
+    },
+    {
+        "brand": "SilentiumPC",
+        "size": "140",
+        "model": "Sigma Pro 140"
+    },
+    {
+        "brand": "SilentiumPC",
+        "size": "140",
+        "model": "Zephyr 140"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "180",
+        "model": "AP"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "AP"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "140",
+        "model": "AP"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "180",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "180",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "180",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "Air Penetrator"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "140",
+        "model": "FHP"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "140",
+        "model": "FHP"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "140",
+        "model": "FHP"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "92",
+        "model": "FM"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "180",
+        "model": "FM"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "80",
+        "model": "FM"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FM"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FM"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "80",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "180",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FN"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "80",
+        "model": "FQ"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "140",
+        "model": "FQ"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FQ"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FQ"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "92",
+        "model": "FQ"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "80",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "92",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "140",
+        "model": "FW"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "80",
+        "model": "SCOOL"
+    },
+    {
+        "brand": "Silverstone",
+        "size": "120",
+        "model": "SCOOL"
+    },
+    {
+        "brand": "StarTech",
+        "size": "120",
+        "model": "FAN12025PWM"
+    },
+    {
+        "brand": "StarTech",
+        "size": "40",
+        "model": "FAN4X1LP4"
+    },
+    {
+        "brand": "StarTech",
+        "size": "80",
+        "model": "FAN8025PWM"
+    },
+    {
+        "brand": "StarTech",
+        "size": "80",
+        "model": "FAN8X25TX3L"
+    },
+    {
+        "brand": "StarTech",
+        "size": "92",
+        "model": "FAN9225PWM"
+    },
+    {
+        "brand": "StarTech",
+        "size": "92",
+        "model": "FAN9X25TX3H"
+    },
+    {
+        "brand": "StarTech",
+        "size": "92",
+        "model": "FAN9X25TX3L"
+    },
+    {
+        "brand": "StarTech",
+        "size": "92",
+        "model": "FANBOX"
+    },
+    {
+        "brand": "StarTech",
+        "size": "80",
+        "model": "FANBOX"
+    },
+    {
+        "brand": "StarTech",
+        "size": "80",
+        "model": "FANBOX"
+    },
+    {
+        "brand": "StarTech",
+        "size": "120",
+        "model": "FANBOX"
+    },
+    {
+        "brand": "Swiftech",
+        "size": "120",
+        "model": "HELIX"
+    },
+    {
+        "brand": "Thermalright",
+        "size": "140",
+        "model": "TY"
+    },
+    {
+        "brand": "Thermalright",
+        "size": "140",
+        "model": "TY"
+    },
+    {
+        "brand": "Thermalright",
+        "size": "140",
+        "model": "TY"
+    },
+    {
+        "brand": "Thermalright",
+        "size": "120",
+        "model": "TY"
+    },
+    {
+        "brand": "Thermalright",
+        "size": "140",
+        "model": "TY"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "92",
+        "model": "Blue-Eye"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Blue-Eye"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "80",
+        "model": "Blue-Eye"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "92",
+        "model": "DuraMax"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "80",
+        "model": "DuraMax"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "DuraMax"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "80",
+        "model": "ISGC"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "ISGC"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "200",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Luna"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Luna Slim"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Luna Slim"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Luna Slim"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Luna Slim"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Luna Slim"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Mobile Fan"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "80",
+        "model": "Mobile Fan II"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "200",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "200",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure ARGB TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Pure Duo 2-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Pure Duo 2-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure Duo 2-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure Duo 2-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Pure Plus RGB TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure Plus RGB TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Pure S"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "200",
+        "model": "Riing Plus"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing Plus TT 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing Plus TT 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing Plus TT 5-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing Plus TT 5-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "200",
+        "model": "Riing Plus TT Premium Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing Plus TT Premium Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing Quad 12 RGB Radiator TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing Quad 12 RGB Radiator TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing Quad 14 RGB Radiator TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing Quad 14 RGB Radiator TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Riing Trio 12 RGB TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "140",
+        "model": "Riing Trio 14 RGB TT Premium Edition 3-Pack"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "200",
+        "model": "Riing Trio 20 RGB TT Premium Edition"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "92",
+        "model": "Thunderblade"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Thunderblade"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Thunderblade"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "Thunderblade"
+    },
+    {
+        "brand": "Thermaltake",
+        "size": "120",
+        "model": "TurboFan"
+    },
+    {
+        "brand": "Titan",
+        "size": "120",
+        "model": "TFD-12015H12ZP"
+    },
+    {
+        "brand": "Titan",
+        "size": "120",
+        "model": "TFD-12025H12ZP"
+    },
+    {
+        "brand": "Titan",
+        "size": "95",
+        "model": "TFD-9515M12ZP"
+    },
+    {
+        "brand": "VIVO",
+        "size": "120",
+        "model": "FAN-V120B"
+    },
+    {
+        "brand": "Vantec",
+        "size": "92",
+        "model": "Stealth"
+    },
+    {
+        "brand": "Vantec",
+        "size": "120",
+        "model": "Stealth"
+    },
+    {
+        "brand": "Vantec",
+        "size": "80",
+        "model": "Stealth"
+    },
+    {
+        "brand": "Vantec",
+        "size": "120",
+        "model": "Thermoflow"
+    },
+    {
+        "brand": "Vantec",
+        "size": "92",
+        "model": "Thermoflow"
+    },
+    {
+        "brand": "Vantec",
+        "size": "80",
+        "model": "Thermoflow"
+    },
+    {
+        "brand": "Vantec",
+        "size": "80",
+        "model": "Tornado"
+    },
+    {
+        "brand": "Vantec",
+        "size": "92",
+        "model": "Tornado"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "CFS"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "CFS"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "CFS"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "CFS"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "CFS"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "80",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "80",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "80",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "200",
+        "model": "Crystal"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XAF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "200",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "80",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "200",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "200",
+        "model": "XLF"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "eXTREME OCTAGON"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "eXTREME OCTAGON"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "80",
+        "model": "eXTREME SILENT"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "140",
+        "model": "eXTREME SILENT"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "92",
+        "model": "eXTREME SILENT"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "eXTREME SILENT"
+    },
+    {
+        "brand": "Xigmatek",
+        "size": "120",
+        "model": "eXTREME SILENT"
+    },
+    {
+        "brand": "Xilence",
+        "size": "80",
+        "model": "Performance C"
+    },
+    {
+        "brand": "Xilence",
+        "size": "92",
+        "model": "Performance C"
+    },
+    {
+        "brand": "Xilence",
+        "size": "120",
+        "model": "Performance C"
+    },
+    {
+        "brand": "Xion",
+        "size": "120",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "120",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "140",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "140",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "120",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "80",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "140",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "120",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Xion",
+        "size": "120",
+        "model": "Alphawing"
+    },
+    {
+        "brand": "Yate Loon",
+        "size": "120",
+        "model": "D12SL-12"
+    },
+    {
+        "brand": "Zalman",
+        "size": "80",
+        "model": "F1"
+    },
+    {
+        "brand": "Zalman",
+        "size": "80",
+        "model": "F1"
+    },
+    {
+        "brand": "Zalman",
+        "size": "80",
+        "model": "F1"
+    },
+    {
+        "brand": "Zalman",
+        "size": "80",
+        "model": "F1"
+    },
+    {
+        "brand": "Zalman",
+        "size": "80",
+        "model": "F1 Plus"
+    },
+    {
+        "brand": "Zalman",
+        "size": "80",
+        "model": "F1 Plus"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "F2"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "F2"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "F2"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "F2"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "F2 Plus"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "F2 Plus"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "F3"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "F3"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "F3"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "F3"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "F3"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "F3"
+    },
+    {
+        "brand": "Zalman",
+        "size": "92",
+        "model": "SF2"
+    },
+    {
+        "brand": "Zalman",
+        "size": "120",
+        "model": "SF3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "92",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "92",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Pure Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "SHADOW WINGS 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "92",
+        "model": "Shadow Wings"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Shadow Wings"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Shadow Wings"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Shadow Wings"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Shadow Wings"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "92",
+        "model": "Shadow Wings"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "92",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Silent Wings 2"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "140",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "120",
+        "model": "Silent Wings 3"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "80",
+        "model": "Silent Wings Pure"
+    },
+    {
+        "brand": "be quiet!",
+        "size": "92",
+        "model": "Silent Wings Pure"
+    },
+    {
+        "brand": "darkFlash",
+        "size": "120",
+        "model": "Aurora DR12 PRO 5-Pack"
+    },
+    {
+        "brand": "upHere",
+        "size": "120",
+        "model": "B12CM4 3-Pack"
+    },
+    {
+        "brand": "upHere",
+        "size": "120",
+        "model": "T7SYC7 3-Pack"
+    },
+    {
+        "brand": "upHere",
+        "size": "120",
+        "model": "T7SYC7 6-Pack"
+    }
+]
