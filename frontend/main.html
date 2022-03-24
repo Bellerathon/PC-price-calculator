@@ -20,130 +20,101 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
   <link rel="stylesheet" href="./styles.css">
-
+  <script src="./script.js" async></script>
 </head>
 
 <body>
   <div class="partpicker">
     <table>
       <tr>
+        <td>
+          <h4>PART</h4>
+        </td>
+        <td>
+          <h4>YOUR MODEL</h4>
+        </td>
+        <td>
+          <h4>AVERAGE PRICE</h4>
+        </td>
+      </tr>
+      <tr>
         <td>CPU</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="" onkeyup="handleChange(this.value, this.id)">
+          <div className='search-results-wrapper'>
+            <div className='search-result'>
+              <script>
+                let cpus = ['67000k', '8700k', '9700k'];
+                cpus.forEach()
+              </script>
+            </div>
+          </div>
         </td>
       </tr>
       <tr>
         <td>GPU</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="GPU" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Motherboard</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type=" text" id="Motherbaord" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>RAM</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="RAM" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Power Supply</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Power" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Case</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Case" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Storage</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Storage" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Case Fans</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Fans" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>CPU Cooler</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Cooler" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Monitor</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Monitor" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Keyboard</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Keyboard" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
       <tr>
         <td>Mouse</td>
-        <td><select class="part-select">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="mercedes">Mercedes</option>
-            <option value="audi">Audi</option>
-          </select>
+        <td>
+          <input type="text" id="Mouse" onkeyup="handleChange(this.value, this.id)">
         </td>
       </tr>
     </table>

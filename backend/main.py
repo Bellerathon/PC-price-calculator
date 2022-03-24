@@ -3,28 +3,27 @@ import re
 import json
 
 
-# api = API()
-# cpu_data = api.retrieve("cpu")
+api = API()
+cpu_data = api.retrieve("cpu")
 
-# cpus = []
-# for cpu in cpu_data["cpu"]:
-#     cpu = str(cpu)
-#     entry = {}
-#     words = cpu.strip("CPU(").split(",")
-#     edit1 = words[0].strip()
-#     edit2 = edit1.strip("brand=")
-#     brand = edit2.strip("'")
+cpus = []
+for cpu in cpu_data["cpu"]:
+    cpu = str(cpu)
+    words = cpu.strip("CPU(").split(",")
+    edit1 = words[0].strip()
+    edit2 = edit1.strip("brand=")
+    brand = edit2.strip("'")
 
-#     edit1 = words[1].strip()
-#     edit2 = edit1.strip("model=")
-#     model = edit2.strip("'")
+    edit1 = words[1].strip()
+    edit2 = edit1.strip("model=")
+    model = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     cpus.append(entry)
+    cpus.append(" ".join([brand, model]))
 
-# saveFile = open(f"./pcparts_data/cpus.txt", 'w')
-# json.dump(cpus, saveFile, indent=4)
+with open(f"./parts/cpus_array.txt", 'w') as file:
+    for cpu in cpus:
+        file.write(cpu + "\n")
+file.close()
 
 # api = API()
 # gpu_data = api.retrieve("video-card")
@@ -273,7 +272,7 @@ import json
 
 #     entry["brand"] = brand
 #     entry["model"] = model
-#     entry["name"] = " ".join([style, switches, backlight, connection, color]) 
+#     entry["name"] = " ".join([style, switches, backlight, connection, color])
 #     keyboards.append(entry)
 
 # saveFile = open(f"./pcparts_data/keyboards.txt", 'w')
@@ -308,7 +307,7 @@ import json
 
 #     entry["brand"] = brand
 #     entry["model"] = model
-#     entry["details"] = " ".join([tracking, connection, color]) 
+#     entry["details"] = " ".join([tracking, connection, color])
 #     mouses.append(entry)
 
 # saveFile = open(f"./pcparts_data/mouses.txt", 'w')
@@ -347,55 +346,55 @@ import json
 
 #     entry["brand"] = brand
 #     entry["model"] = model
-#     entry["name"] = " ".join([form, efficiency, wattage + "W", modular + " modular"]) 
+#     entry["name"] = " ".join([form, efficiency, wattage + "W", modular + " modular"])
 #     powersupplys.append(entry)
 
 # saveFile = open(f"./pcparts_data/powersupplys.txt", 'w')
 # json.dump(powersupplys, saveFile, indent=4)
 
-api = API()
-memory_data = api.retrieve("memory")
-memorys = []
-for memory in memory_data["memory"]:
-    gpu = str(memory)
-    entry = {}
-    words = gpu.strip("Memory(").split(",")
-    edit1 = words[0].strip()
-    edit2 = edit1.strip("brand=")
-    brand = edit2.strip("'")
+# api = API()
+# memory_data = api.retrieve("memory")
+# memorys = []
+# for memory in memory_data["memory"]:
+#     gpu = str(memory)
+#     entry = {}
+#     words = gpu.strip("Memory(").split(",")
+#     edit1 = words[0].strip()
+#     edit2 = edit1.strip("brand=")
+#     brand = edit2.strip("'")
 
-    edit1 = words[1].strip()
-    edit2 = edit1.strip("model=")
-    model = edit2.strip("'")
+#     edit1 = words[1].strip()
+#     edit2 = edit1.strip("model=")
+#     model = edit2.strip("'")
 
-    edit1 = words[2].strip()
-    edit2 = edit1.strip("module_type=")
-    module_type = edit2.strip("'")
+#     edit1 = words[2].strip()
+#     edit2 = edit1.strip("module_type=")
+#     module_type = edit2.strip("'")
 
-    try:
-        edit1 = words[3].strip()
-        edit2 = edit1.strip("speed=ClockSpeed(cycles=")
-        edit2 = edit2.strip(")")
-        speed = int(edit2) / 1000000
-        speed = str(speed)[:-2]
-    except:
-        speed = "n/a"
+#     try:
+#         edit1 = words[3].strip()
+#         edit2 = edit1.strip("speed=ClockSpeed(cycles=")
+#         edit2 = edit2.strip(")")
+#         speed = int(edit2) / 1000000
+#         speed = str(speed)[:-2]
+#     except:
+#         speed = "n/a"
 
-    try:
-        edit1 = words[5].strip()
-        edit2 = edit1.strip("module_size=Bytes(total=")
-        edit2 = edit2.strip(")")
-        size = int(edit2) / 1000000000
-        size = str(size)[:-2]
-    except:
-        size = "n/a"
+#     try:
+#         edit1 = words[5].strip()
+#         edit2 = edit1.strip("module_size=Bytes(total=")
+#         edit2 = edit2.strip(")")
+#         size = int(edit2) / 1000000000
+#         size = str(size)[:-2]
+#     except:
+#         size = "n/a"
 
-    entry["brand"] = brand
-    entry["model"] = model
-    entry["module_type"] = module_type
-    entry["speed"] = speed + "MHz"
-    entry["size"] = size + "GB"
-    memorys.append(entry)
+#     entry["brand"] = brand
+#     entry["model"] = model
+#     entry["module_type"] = module_type
+#     entry["speed"] = speed + "MHz"
+#     entry["size"] = size + "GB"
+#     memorys.append(entry)
 
-saveFile = open(f"./pcparts_data/memory.txt", 'w')
-json.dump(memorys, saveFile, indent=4)
+# saveFile = open(f"./pcparts_data/memory.txt", 'w')
+# json.dump(memorys, saveFile, indent=4)
