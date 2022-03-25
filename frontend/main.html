@@ -40,81 +40,136 @@
       <tr>
         <td>CPU</td>
         <td>
-          <input type="text" id="" onkeyup="handleChange(this.value, this.id)">
-          <div className='search-results-wrapper'>
-            <div className='search-result'>
-              <script>
-                let cpus = ['67000k', '8700k', '9700k'];
-                cpus.forEach()
-              </script>
-            </div>
+          <input type="search" id="CPU" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="CPU-search-results"></div>
           </div>
+          </input>
+          <script>
+            console.log(document.getElementById('CPU').value)
+            document.getElementById('CPU').addEventListener('focus', () => {
+              document.getElementById('CPU-search-results').style.display = 'block';
+            });
+            document.getElementById('CPU').addEventListener('blur', () => {
+              document.getElementById('CPU-search-results').style.display = 'none';
+            });
+            document.getElementById('CPU').addEventListener('input', (event) => {
+              console.log(document.getElementById('CPU').value)
+              if (document.getElementById('CPU').value === '') {
+                document.getElementById('CPU-search-results').style.display = 'none';
+              }
+            });
+          </script>
         </td>
       </tr>
       <tr>
         <td>GPU</td>
         <td>
-          <input type="text" id="GPU" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="GPU" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="GPU-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Motherboard</td>
         <td>
-          <input type=" text" id="Motherbaord" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="MOTHERBOARD" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="MOTHERBOARD-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>RAM</td>
         <td>
-          <input type="text" id="RAM" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="RAM" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="RAM-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Power Supply</td>
         <td>
-          <input type="text" id="Power" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="POWERSUPPLY" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="POWERSUPPLY-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Case</td>
         <td>
-          <input type="text" id="Case" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="CASE" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="CASE-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Storage</td>
         <td>
-          <input type="text" id="Storage" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="STORAGE" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="STORAGE-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Case Fans</td>
         <td>
-          <input type="text" id="Fans" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="FAN" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="FAN-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>CPU Cooler</td>
         <td>
-          <input type="text" id="Cooler" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="COOLER" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="COOLER-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Monitor</td>
         <td>
-          <input type="text" id="Monitor" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="MONITOR" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="MONITOR-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Keyboard</td>
         <td>
-          <input type="text" id="Keyboard" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="KEYBOARD" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="KEYBOARD-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
       <tr>
         <td>Mouse</td>
         <td>
-          <input type="text" id="Mouse" onkeyup="handleChange(this.value, this.id)">
+          <input type="search" id="MOUSE" onkeyup="handleChange(this.value, this.id)">
+          <div class='search-results-wrapper'>
+            <div class='search-result' id="MOUSE-search-results"></div>
+          </div>
+          </input>
         </td>
       </tr>
     </table>

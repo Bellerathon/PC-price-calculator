@@ -3,35 +3,33 @@ import re
 import json
 
 
-api = API()
-cpu_data = api.retrieve("cpu")
+# api = API()
+# cpu_data = api.retrieve("cpu")
 
-cpus = []
-for cpu in cpu_data["cpu"]:
-    cpu = str(cpu)
-    words = cpu.strip("CPU(").split(",")
-    edit1 = words[0].strip()
-    edit2 = edit1.strip("brand=")
-    brand = edit2.strip("'")
+# cpus = []
+# for cpu in cpu_data["cpu"]:
+#     cpu = str(cpu)
+#     words = cpu.strip("CPU(").split(",")
+#     edit1 = words[0].strip()
+#     edit2 = edit1.strip("brand=")
+#     brand = edit2.strip("'")
 
-    edit1 = words[1].strip()
-    edit2 = edit1.strip("model=")
-    model = edit2.strip("'")
+#     edit1 = words[1].strip()
+#     edit2 = edit1.strip("model=")
+#     model = edit2.strip("'")
 
-    cpus.append(" ".join([brand, model]))
+#     cpus.append(" ".join([brand, model]))
 
-with open(f"./parts/cpus_array.txt", 'w') as file:
-    for cpu in cpus:
-        file.write(cpu + "\n")
-file.close()
+# with open(f"./parts/cpus_array.txt", 'w') as file:
+#     for cpu in cpus:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # gpu_data = api.retrieve("video-card")
-# print(gpu_data)
 # gpus = []
 # for gpu in gpu_data["video-card"]:
 #     gpu = str(gpu)
-#     entry = {}
 #     words = gpu.strip("GPU(").split(",")
 #     edit1 = words[0].strip()
 #     edit2 = edit1.strip("brand=")
@@ -45,20 +43,18 @@ file.close()
 #     edit2 = edit1.strip("chipset=")
 #     chipset = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["chipset"] = chipset
-#     entry["model"] = model
-#     gpus.append(entry)
+#     gpus.append(" ".join([brand, model, chipset]))
 
-# saveFile = open(f"./pcparts_data/gpus.txt", 'w')
-# json.dump(gpus, saveFile, indent=4)
+# with open(f"./parts/gpus_array.txt", 'w') as file:
+#     for gpu in gpus:
+#         file.write(gpu + "\n")
+# file.close()
 
 # api = API()
 # cpu_cooler_data = api.retrieve("cpu-cooler")
 # cpu_coolers = []
 # for cpu_cooler in cpu_cooler_data["cpu-cooler"]:
 #     gpu = str(cpu_cooler)
-#     entry = {}
 #     words = gpu.strip("CPUCooler(").split(",")
 #     edit1 = words[0].strip()
 #     edit2 = edit1.strip("brand=")
@@ -68,19 +64,18 @@ file.close()
 #     edit2 = edit1.strip("model=")
 #     model = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     cpu_coolers.append(entry)
+#     cpu_coolers.append(" ".join([brand, model]))
 
-# saveFile = open(f"./pcparts_data/cpu_coolers.txt", 'w')
-# json.dump(cpu_coolers, saveFile, indent=4)
+# with open(f"./parts/cpucoolers_array.txt", 'w') as file:
+#     for cpu in cpu_coolers:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # case_fan_data = api.retrieve("case-fan")
 # case_fans = []
 # for case_fan in case_fan_data["case-fan"]:
 #     gpu = str(case_fan)
-#     entry = {}
 #     words = gpu.strip("Fan(").split(",")
 #     edit1 = words[0].strip()
 #     edit2 = edit1.strip("brand=")
@@ -94,13 +89,12 @@ file.close()
 #     edit2 = edit1.strip("size=")
 #     size = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["size"] = size
-#     entry["model"] = model
-#     case_fans.append(entry)
+#     case_fans.append(" ".join([brand , model, size]))
 
-# saveFile = open(f"./pcparts_data/case_fans.txt", 'w')
-# json.dump(case_fans, saveFile, indent=4)
+# with open(f"./parts/fans_array.txt", 'w') as file:
+#     for cpu in case_fans:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # motherboard_data = api.retrieve("motherboard")
@@ -125,14 +119,12 @@ file.close()
 #     edit2 = edit1.strip("form_factor=")
 #     form = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["chipset"] = chipset
-#     entry["form"] = form
-#     entry["model"] = model
-#     motherboards.append(entry)
+#     motherboards.append(" ".join([brand, model, chipset, form]))
 
-# saveFile = open(f"./pcparts_data/motherboards.txt", 'w')
-# json.dump(motherboards, saveFile, indent=4)
+# with open(f"./parts/motherboards_array.txt", 'w') as file:
+#     for cpu in motherboards:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # hdd_data = api.retrieve("internal-hard-drive")
@@ -169,15 +161,12 @@ file.close()
 #     edit2 = edit1.strip("interface=")
 #     interface = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     entry["size"] = size
-#     entry["form"] = form
-#     entry["interface"] = interface
-#     hdds.append(entry)
+#     hdds.append(" ".join([brand, model, size, form, interface]))
 
-# saveFile = open(f"./pcparts_data/storage.txt", 'w')
-# json.dump(hdds, saveFile, indent=4)
+# with open(f"./parts/hdds_array.txt", 'w') as file:
+#     for cpu in hdds:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # monitor_data = api.retrieve("monitor")
@@ -200,14 +189,12 @@ file.close()
 #     edit1 = words[5].strip()
 #     rfr = edit1.strip("refresh_rate=")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     entry["size"] = size
-#     entry["Hz"] = rfr
-#     monitors.append(entry)
+#     monitors.append(" ".join([brand, model, size + "inch", rfr + "Hz"]))
 
-# saveFile = open(f"./pcparts_data/monitors.txt", 'w')
-# json.dump(monitors, saveFile, indent=4)
+# with open(f"./parts/monitors_array.txt", 'w') as file:
+#     for cpu in monitors:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # case_data = api.retrieve("case")
@@ -227,13 +214,12 @@ file.close()
 #     edit1 = words[2].strip()
 #     form = edit1.strip("form_factor=")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     entry["form"] = form
-#     cases.append(entry)
+#     cases.append(" ".join([brand, model, form]))
 
-# saveFile = open(f"./pcparts_data/cases.txt", 'w')
-# json.dump(cases, saveFile, indent=4)
+# with open(f"./parts/cases_array.txt", 'w') as file:
+#     for cpu in cases:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # keyboard_data = api.retrieve("keyboard")
@@ -270,13 +256,17 @@ file.close()
 #     edit2 = edit1.strip("color=")
 #     color = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     entry["name"] = " ".join([style, switches, backlight, connection, color])
-#     keyboards.append(entry)
+#     features = [brand, model, style, switches, backlight, connection, color]
+#     name = ""
+#     for feature in features:
+#         if feature != 'None' and feature != "Non":
+#             name = name + " " + feature
+#     keyboards.append(name)
 
-# saveFile = open(f"./pcparts_data/keyboards.txt", 'w')
-# json.dump(keyboards, saveFile, indent=4)
+# with open(f"./parts/keyboards_array.txt", 'w') as file:
+#     for cpu in keyboards:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # mouse_data = api.retrieve("mouse")
@@ -305,13 +295,17 @@ file.close()
 #     edit2 = edit1.strip("color=")
 #     color = edit2.strip("'")
 
-#     entry["brand"] = brand
-#     entry["model"] = model
-#     entry["details"] = " ".join([tracking, connection, color])
-#     mouses.append(entry)
+#     features = [brand, model, tracking, connection, color]
+#     name = ""
+#     for feature in features:
+#         if feature != 'None' and feature != "Non":
+#             name = name + " " + feature
+#     mouses.append(name)
 
-# saveFile = open(f"./pcparts_data/mouses.txt", 'w')
-# json.dump(mouses, saveFile, indent=4)
+# with open(f"./parts/mouses_array.txt", 'w') as file:
+#     for cpu in mouses:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # powersupply_data = api.retrieve("power-supply")
@@ -347,10 +341,12 @@ file.close()
 #     entry["brand"] = brand
 #     entry["model"] = model
 #     entry["name"] = " ".join([form, efficiency, wattage + "W", modular + " modular"])
-#     powersupplys.append(entry)
+#     powersupplys.append(" ".join([brand, model, entry["name"]]))
 
-# saveFile = open(f"./pcparts_data/powersupplys.txt", 'w')
-# json.dump(powersupplys, saveFile, indent=4)
+# with open(f"./parts/powersupply_array.txt", 'w') as file:
+#     for cpu in powersupplys:
+#         file.write(cpu + "\n")
+# file.close()
 
 # api = API()
 # memory_data = api.retrieve("memory")
@@ -394,7 +390,9 @@ file.close()
 #     entry["module_type"] = module_type
 #     entry["speed"] = speed + "MHz"
 #     entry["size"] = size + "GB"
-#     memorys.append(entry)
+#     memorys.append(" ".join([brand, model, module_type, entry["speed"]]))
 
-# saveFile = open(f"./pcparts_data/memory.txt", 'w')
-# json.dump(memorys, saveFile, indent=4)
+# with open(f"./parts/RAM.txt", 'w') as file:
+#     for cpu in memorys:
+#         file.write(cpu + "\n")
+# file.close()
