@@ -32,3 +32,19 @@ const generateSearchResults = (results, id) => {
         searchResults.appendChild(searchResultItem(element));
     });
 }
+
+const elements = document.querySelectorAll('input[type="search"]');
+for (let i = 0; i < elements.length; i++) {
+    const element = document.getElementById(elements[i].id);
+    element.addEventListener('focus', () => {
+        document.getElementById(element.id.concat("-search-results")).style.display = 'block';
+    });
+    element.addEventListener('blur', () => {
+        document.getElementById(element.id.concat("-search-results")).style.display = 'none';
+    });
+    element.addEventListener('input', () => {
+        if (element.value === '') {
+            document.getElementById(element.id.concat("-search-results")).style.display = 'none';
+        }
+    });
+};
