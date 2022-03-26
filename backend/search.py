@@ -7,16 +7,18 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-
+valid_parts = ["CPU", "GPU", "MOTHERBOARD", "RAM", "STORAGE", "FAN", "CASE", "POWERSUPPLY", "KEYBOARD", "MOUSE"]
 
 @app.route('/searchPart', methods=['POST'])
 @cross_origin()
-def search():
+def searchPart():
     data = request.get_json(force=True)
     part = secure_filename(data["part"])
-    target = secure_filename(data["name"])
-    similar_array = []
+    target = data["name"]
+    if part not in valid_parts:
+        return jsonify("Invalid part")
     f = open(f"/home/will/pcprice/backend/parts/{part}.txt", "r")
+    similar_array = []
     for line in f:
         cpu = {}
         line = line.strip("\n")
@@ -39,3 +41,10 @@ def search():
         cpus.append(cpu["name"])
 
     return jsonify(cpus)
+
+@app.route('/searchPartPrice', methods=['POST'])
+@cross_origin()
+def searchPartPrice():
+    data = request.get_json(force=True)
+    print(data["part"])
+    return jsonify(data["part"])
