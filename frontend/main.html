@@ -20,146 +20,195 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
   <link rel="stylesheet" href="./styles.css">
-  <script src="./script.js" async></script>
 </head>
 
 <body>
-  <div class="partpicker">
+  <header>
+    herllo
+  </header>
+  <main>
+
     <table>
       <tr>
-        <td>
-          <h4>PART</h4>
-        </td>
-        <td>
-          <h4>YOUR MODEL</h4>
-        </td>
-        <td>
-          <h4>AVERAGE PRICE</h4>
-        </td>
+        <th>Part</th>
+        <th>Model</th>
+        <th>Price</th>
       </tr>
       <tr>
         <td>CPU</td>
         <td>
-          <input type="search" id="CPU">
+          <input type="search" id="CPU" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="CPU-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td class="td-chart">
+          <div id="CPU-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>GPU</td>
         <td>
-          <input type="search" id="GPU">
+          <input type="search" id="GPU" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="GPU-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="GPU-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Motherboard</td>
         <td>
-          <input type="search" id="MOTHERBOARD">
+          <input type="search" id="MOTHERBOARD" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="MOTHERBOARD-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="MOTHERBOARD-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>RAM</td>
         <td>
-          <input type="search" id="RAM">
+          <input type="search" id="RAM" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="RAM-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="RAM-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Power Supply</td>
         <td>
-          <input type="search" id="POWERSUPPLY">
+          <input type="search" id="POWERSUPPLY" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="POWERSUPPLY-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="POWERSUPPLY-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Case</td>
         <td>
-          <input type="search" id="CASE">
+          <input type="search" id="CASE" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="CASE-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="CASE-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Storage</td>
         <td>
-          <input type="search" id="STORAGE">
+          <input type="search" id="STORAGE" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="STORAGE-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="STORAGE-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Case Fans</td>
         <td>
-          <input type="search" id="FAN">
+          <input type="search" id="FAN" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="FAN-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="FAN-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>CPU Cooler</td>
         <td>
-          <input type="search" id="COOLER">
+          <input type="search" id="COOLER" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="COOLER-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="COOLER-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Monitor</td>
         <td>
-          <input type="search" id="MONITOR">
+          <input type="search" id="MONITOR" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="MONITOR-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="MONITOR-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Keyboard</td>
         <td>
-          <input type="search" id="KEYBOARD">
+          <input type="search" id="KEYBOARD" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="KEYBOARD-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="KEYBOARD-chart"></div>
+        </td>
       </tr>
       <tr>
         <td>Mouse</td>
         <td>
-          <input type="search" id="MOUSE">
+          <input type="search" id="MOUSE" class="part-input">
           <div class="search-results-wrapper">
             <div class="search-result" id="MOUSE-search-results"></div>
           </div>
           </input>
         </td>
+        <td>999</td>
+        <td>
+          <div id="MOUSE-chart"></div>
+        </td>
       </tr>
     </table>
-  </div>
-  <div class="stats">hello world</div>
+    <script src="./script.js" async></script>
+    <script src='https://cdn.plot.ly/plotly-latest.min.js' async></script>
+  </main>
 </body>
+<footer>
+  hello
+</footer>
 
 </html>

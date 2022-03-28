@@ -7,7 +7,7 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-valid_parts = ["CPU", "GPU", "MOTHERBOARD", "RAM", "STORAGE", "FAN", "CASE", "POWERSUPPLY", "KEYBOARD", "MOUSE"]
+valid_parts = ["CPU", "GPU", "MOTHERBOARD", "RAM", "STORAGE", "FAN", "CASE", "POWERSUPPLY", "KEYBOARD", "MOUSE", "MONITOR", "COOLER"]
 
 @app.route('/searchPart', methods=['POST'])
 @cross_origin()
@@ -15,6 +15,7 @@ def searchPart():
     data = request.get_json(force=True)
     part = secure_filename(data["part"])
     target = data["name"]
+    print(target)
     if part not in valid_parts:
         return jsonify("Invalid part")
     f = open(f"/home/will/pcprice/backend/parts/{part}.txt", "r")
@@ -39,7 +40,7 @@ def searchPart():
         if index == 15:
             break
         cpus.append(cpu["name"])
-
+    print(cpus)
     return jsonify(cpus)
 
 @app.route('/searchPartPrice', methods=['POST'])
@@ -47,4 +48,7 @@ def searchPart():
 def searchPartPrice():
     data = request.get_json(force=True)
     print(data["part"])
-    return jsonify(data["part"])
+    prices = [460.00,   386.00,   370.00,   450.00,   500.00,   331.00,   414.42, 426.41, 373.11, 474.32,
+    439.74, 426.41, 491.91, 413.09, 360.15, 395.28, 466.39, 456.77, 549.67, 527.04,
+    356.63]
+    return jsonify(prices)

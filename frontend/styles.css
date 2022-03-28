@@ -1,37 +1,51 @@
-body {
-    display: flex;
-    height: 100vh;
-    width: 100vw;
+html {
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
-    flex-direction: row;
+}
+
+header {
+    height: 5rem;
+    width: 100%;
+    background-color: aqua;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.partpicker {
-    display: flex;
-    width: 40vw;
-    height: 85vh;
-    background-color: burlywood;
-    flex-direction: column;
-    align-items: center;
+    margin: 0;
+    padding: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('./stacked-peaks-haikei.svg');
+    color: white;
+    overflow-y: auto;
 }
 
-table {
-    width: 80%;
-    height: 80%
+footer {
+    height: 2rem;
+    width: 100%;
+    background-color: aquamarine;
 }
 
 tr {
-    height: 3.5rem;
+    height: 4.2rem;
+}
+
+th {
+    text-align: left;
+}
+
+.td-chart {
+    width: 500px;
 }
 
 input {
     position: relative;
-    width: 16rem;
+    width: 25rem;
     height: 2rem;
     border-radius: 5px;
     border: none;
@@ -49,7 +63,7 @@ input {
     background-color: #ffffff;
     border-radius: 0.3rem;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 999 ;
+    z-index: 999;
 }
   
 .search-results {
@@ -83,8 +97,37 @@ input {
     width: 10rem;
 }
 
-.stats {
-    width: 40vw;
-    height: 85vh;
-    background-color: beige;
+.modebar{
+    display: none !important;
+}
+
+.custom-shape-divider-top-1648474894 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1648474894 svg {
+    position: relative;
+    display: block;
+    width: calc(184% + 1.3px);
+    height: 137px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1648474894 .shape-fill {
+    fill: #FFFFFF;
+}
+
+@media only screen and (max-width: 750px) {
+    td {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 1rem;
+    }
 }
