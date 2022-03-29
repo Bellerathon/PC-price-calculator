@@ -24,15 +24,14 @@
 
 <body>
   <header>
-    herllo
   </header>
-  <main>
 
-    <table>
+  <table>
+    <tbody>
       <tr>
         <th>Part</th>
         <th>Model</th>
-        <th>Price</th>
+        <th>Average Selling Price</th>
       </tr>
       <tr>
         <td>CPU</td>
@@ -41,9 +40,8 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="CPU-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
+        <td id="CPU-cost" class="selling-price">999</td>
         <td class="td-chart">
           <div id="CPU-chart"></div>
         </td>
@@ -55,10 +53,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="GPU-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="GPU-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="GPU-chart"></div>
         </td>
       </tr>
@@ -69,10 +66,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="MOTHERBOARD-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="MOTHERBOARD-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="MOTHERBOARD-chart"></div>
         </td>
       </tr>
@@ -83,10 +79,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="RAM-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="RAM-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="RAM-chart"></div>
         </td>
       </tr>
@@ -97,10 +92,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="POWERSUPPLY-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="POWERSUPPLY-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="POWERSUPPLY-chart"></div>
         </td>
       </tr>
@@ -111,10 +105,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="CASE-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="CASE-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="CASE-chart"></div>
         </td>
       </tr>
@@ -125,10 +118,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="STORAGE-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="STORAGE-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="STORAGE-chart"></div>
         </td>
       </tr>
@@ -139,10 +131,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="FAN-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="FAN-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="FAN-chart"></div>
         </td>
       </tr>
@@ -153,10 +144,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="COOLER-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="COOLER-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="COOLER-chart"></div>
         </td>
       </tr>
@@ -167,10 +157,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="MONITOR-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="MONITOR-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="MONITOR-chart"></div>
         </td>
       </tr>
@@ -181,10 +170,9 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="KEYBOARD-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="KEYBOARD-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="KEYBOARD-chart"></div>
         </td>
       </tr>
@@ -195,20 +183,18 @@
           <div class="search-results-wrapper">
             <div class="search-result" id="MOUSE-search-results"></div>
           </div>
-          </input>
         </td>
-        <td>999</td>
-        <td>
+        <td id="MOUSE-cost" class="selling-price">999</td>
+        <td class="td-chart">
           <div id="MOUSE-chart"></div>
         </td>
       </tr>
-    </table>
-    <script src="./script.js" async></script>
-    <script src='https://cdn.plot.ly/plotly-latest.min.js' async></script>
-  </main>
+    </tbody>
+  </table>
+  <footer>
+  </footer>
+  <script src="./script.js" async></script>
+  <script src='https://cdn.plot.ly/plotly-latest.min.js' async></script>
 </body>
-<footer>
-  hello
-</footer>
 
 </html>

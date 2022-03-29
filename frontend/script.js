@@ -118,7 +118,7 @@ const chart = (prices, id) => {
         boxpoints: 'all',
         x: prices,
         jitter: 0.5,
-        whiskerwidth: 0.2,
+        whiskerwidth: 0.5,
         fillcolor: colours[indexInClass(id)],
         marker: {
             size: 2,
@@ -134,8 +134,8 @@ const chart = (prices, id) => {
 
     var layout = {
         autosize: true,
-        height: 60,
-        width: 500,
+        height: 100,
+        width: 700,
         tooltip: false,
         hovermode: "x",
         yaxis: {
@@ -151,8 +151,8 @@ const chart = (prices, id) => {
         margin: {
             l: 0,
             r: 0,
-            t: 0,
-            b: 25,
+            t: 28,
+            b: 28,
         }
     };
 

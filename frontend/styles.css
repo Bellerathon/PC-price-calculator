@@ -1,15 +1,20 @@
 html {
     margin: 0;
     padding: 0;
+    background-image: url('./stacked-peaks-haikei.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 header {
     height: 5rem;
     width: 100%;
-    background-color: aqua;
+    background-color: rgb(50, 151, 209);
 }
 
 body {
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,36 +22,38 @@ body {
     margin: 0;
     padding: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-image: url('./stacked-peaks-haikei.svg');
+    font-size: 1rem;
     color: white;
     overflow-y: auto;
 }
 
 footer {
-    height: 2rem;
+    height: 5rem;
     width: 100%;
-    background-color: aquamarine;
+    background-color: rgb(50, 151, 209);
 }
 
-tr {
-    height: 4.2rem;
+table {
+    table-layout: auto;
+    width: 90%;
 }
 
 th {
+    height: 3rem;
     text-align: left;
+    font-size: larger;
 }
 
-.td-chart {
-    width: 500px;
+td {
+    text-align: left;
+    border-top: thin solid rgba(255, 255, 255, 0.068);
+    height: 6.5rem;
 }
 
 input {
     position: relative;
     width: 25rem;
-    height: 2rem;
+    height: 2.5rem;
     border-radius: 5px;
     border: none;
     box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
@@ -57,8 +64,8 @@ input {
 
 .search-results-wrapper {
     position: absolute;
-    width: 16rem;
-    max-height: 11rem;
+    width: 25rem;
+    max-height: 15rem;
     overflow: auto;
     background-color: #ffffff;
     border-radius: 0.3rem;
@@ -70,7 +77,6 @@ input {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
 }
   
 .search-result-item {
@@ -93,6 +99,12 @@ input {
     background-color: #474c5528;
 }
 
+.selling-price {
+    color: rgb(9, 255, 0);
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
 .part-select {
     width: 10rem;
 }
@@ -101,28 +113,21 @@ input {
     display: none !important;
 }
 
-.custom-shape-divider-top-1648474894 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
+.td-chart {
+    width: 50rem;
+    padding: 0;
 }
 
-.custom-shape-divider-top-1648474894 svg {
-    position: relative;
-    display: block;
-    width: calc(184% + 1.3px);
-    height: 137px;
-    transform: rotateY(180deg);
+@keyframes shine {
+    0% {
+      opacity: .2;
+    }
+    100% {
+      opacity: 1;
+    }
 }
 
-.custom-shape-divider-top-1648474894 .shape-fill {
-    fill: #FFFFFF;
-}
-
-@media only screen and (max-width: 750px) {
+/* @media only screen and (max-width: 750px) {
     td {
         display: flex;
         flex-direction: column;
@@ -130,4 +135,4 @@ input {
         align-items: center;
         margin: 1rem;
     }
-}
+} */
