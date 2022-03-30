@@ -37,7 +37,6 @@ let myInputs = document.querySelectorAll('input[type=search]');
 for (let i = 0; i < myInputs.length; i++) {
     const element = document.getElementById(myInputs[i].id);
     element.addEventListener('keyup', debounce(() => {
-        console.log("hello")
         searchPart(element.value, element.id)
     }, 500));
 }
@@ -71,7 +70,7 @@ const searchPartPrice = (name, id) => {
             'Access-Control-Max-Age': 1000,
             'Access-Control-Allow-Headers': 'origin, x-csrftoken, content-type, accept',
         },
-        body: JSON.stringify({ 'part': name })
+        body: JSON.stringify({ 'part': id, 'name': name })
     };
     fetch('http://127.0.0.1:3000/searchPartPrice', requestOptions)
         .then(response => response.json())
@@ -121,7 +120,7 @@ const chart = (prices, id) => {
         whiskerwidth: 0.5,
         fillcolor: colours[indexInClass(id)],
         marker: {
-            size: 2,
+            size: 5,
             color: 'white'
         },
         line: {
