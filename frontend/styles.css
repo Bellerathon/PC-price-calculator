@@ -35,7 +35,7 @@ footer {
 
 table {
     table-layout: auto;
-    width: 90%;
+    width: 98%;
 }
 
 th {
@@ -52,7 +52,7 @@ td {
 
 input {
     position: relative;
-    width: 25rem;
+    width: 20rem;
     height: 2.5rem;
     border-radius: 5px;
     border: none;

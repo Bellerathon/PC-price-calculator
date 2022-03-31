@@ -75,7 +75,7 @@ const searchPartPrice = (name, id) => {
     fetch('http://127.0.0.1:3000/searchPartPrice', requestOptions)
         .then(response => response.json())
         .then(res => {
-            chart(res, id)
+            chart(res, id);
         });
 }
 

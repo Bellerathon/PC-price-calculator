@@ -59,16 +59,16 @@ def searchPartPrice():
     id = data["part"]
     part = data["name"]
     print(part, id)
-    GPU1 = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw="
-    GPU2 = "&_in_kw=1&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
-    GPU3 = "&_in_kw=1&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+ti+Ti+TI&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
+    BASE = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw="
+    GPU2 = "&_in_kw=1&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+laptop+faulty&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
+    GPU3 = "&_in_kw=1&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+laptop+faulty+ti+Ti+TI&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     CPU ="https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw=%22Intel%22+%22Core%22+%22i7-6700k%22&_in_kw=1&_ex_kw=gpu+motherboard+ram+computer+pc+tower&_sacat=0&LH_Sold=1&_udlo=&_udhi=&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     MOTHERBOARD = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw=%22ASRock%22+%22B550%22+%22Steel%22+%22Legend%22+%22AM4%22+%22ATX%22&_in_kw=1&_ex_kw=gpu+cpu+ram+tower+pc&_sacat=0&LH_Sold=1&_udlo=&_udhi=&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     RAM = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw=PART&_in_kw=1&_ex_kw=cpu+gpu+motherboard+tower+2x+3x+4x+lot+x2+x3+x4&_sacat=0&LH_Sold=1&_udlo=&_udhi=&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     
     searchString = ""
     if id == "GPU":
-        searchString = GPU1
+        searchString = BASE
         for part in part.split(" "):
             part = "\"" + part + "\"" + "+"
             searchString += part
@@ -89,7 +89,7 @@ def searchPartPrice():
     for child in children:
         price = child.find("span", class_ = "bold bidsold")
         if price == None:
-            # prices.append("International sellers")
+            prices.append("International sellers")
             continue
         price = price.text
         price = price.split("$")[1]
@@ -97,55 +97,31 @@ def searchPartPrice():
         value = (sub(r'[^\d.]', '', price))
         prices.append(float(value))
 
-    dates = []
-    post_dates = soup.findAll("span", class_ = "tme")
-    for d in post_dates:
-        this_year = str(datetime.now().year)
-        datestr = str(this_year) + "-" + d.text.strip()
-        dates.append(datetime.strptime(datestr, '%Y-%d-%b %H:%M'))
-    sorted_dates = sorted(dates)
-    print(sorted_dates)
-    date_weights = []
-    for post_date in sorted_dates:
-        today = datetime.today().strftime('%Y-%d-%b %H:%M')
-        today = datetime.strptime(today, '%Y-%d-%b %H:%M' )
-        weight = today - post_date
-        print(weight)
-        date_weights.append(int(weight.days))
-        # date_weights.append(post_date)
-    print(date_weights)
+    index_split = prices.index("International sellers")
+    local_sellers = prices[:index_split]
+    international_sellers = prices[index_split + 1:]
+
+    if len(local_sellers) == 0:
+        return jsonify(international_sellers)
+
+    return jsonify(local_sellers)
+
+# Credit: u/Benjamin Bannier - https://stackoverflow.com/questions/11686720/is-there-a-numpy-builtin-to-reject-outliers-from-a-list
+def reject_outliers(price_array):
+    numpy_prices = np.array(price_array).astype(np.float)
+    m = 7.
+    d = np.abs(numpy_prices - np.median(numpy_prices))
+    mdev = np.median(d)
+    s = d/mdev if mdev else 1.
+    prices = numpy_prices[s<m]
     print(prices)
+    return prices.tolist()
 
-    IQData = namedtuple("IQData", "price weight")
-    iqdata = list(map(IQData, prices, date_weights))
-    print(iqdata)
-    print("\n".join(map(str, iqdata)))
-    print(dates, prices)
-    print(smooth(iqdata, alpha=0.5))
-    # index_split = prices.index("International sellers")
-
-    # local_sellers = prices[:index_split]
-    # international_sellers = prices[index_split:]
-
-    # if len(local_sellers) == 0:
-    #     print(international_sellers)
-    #     return jsonify(international_sellers)
-
-    # numpy_prices = np.array(local_sellers).astype(np.float)
-    # prices = reject_outliers(numpy_prices)
-    print(prices)
-
-    return jsonify(prices)
-
-# def reject_outliers(data):
-#     m = 2
-#     d = np.abs(data - np.median(data))
-#     mdev = np.median(d)
-#     s = d/mdev if mdev else 0.
-#     return round(sum(data[s<m]) / len(data[s<m]))
-
-
-# Credit: u/jfs @ https://stackoverflow.com/questions/488670/calculate-exponential-moving-average-in-python
-def smooth(iq_data, alpha=1, today=datetime.today().strftime('%Y-%d-%b %H:%M')):
-    today = datetime.strptime(today, '%Y-%d-%b %H:%M' )
-    return sum(alpha**(price * weight) for price, weight in iq_data)
+# Credit: u/Daniel Reina - https://stackoverflow.com/questions/40057020/calculating-exponential-moving-average-ema-using-javascript
+def EMA(price_array):
+    k = 2 / (len(price_array) + 1)
+    emaArray = [price_array[0]]
+    for i in range(1, len(price_array), 1):
+        emaArray.append(price_array[i] * k + emaArray[i - 1] * (1 - k))
+    print(emaArray)
+    return emaArray
