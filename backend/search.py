@@ -60,11 +60,12 @@ def searchPartPrice():
     part = data["name"]
     print(part, id)
     BASE = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw="
-    GPU2 = "&_in_kw=1&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+laptop+faulty&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
-    GPU3 = "&_in_kw=1&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+laptop+faulty+ti+Ti+TI&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
+    GPU2 = "&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+laptop+faulty+read"
+    GPU3 = "&_ex_kw=cpu+motherboard+ram+tower+pc+cooling+fan+shroud+fan+broken+laptop+faulty+read+ti+Ti+TI"
     CPU ="https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw=%22Intel%22+%22Core%22+%22i7-6700k%22&_in_kw=1&_ex_kw=gpu+motherboard+ram+computer+pc+tower&_sacat=0&LH_Sold=1&_udlo=&_udhi=&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     MOTHERBOARD = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw=%22ASRock%22+%22B550%22+%22Steel%22+%22Legend%22+%22AM4%22+%22ATX%22&_in_kw=1&_ex_kw=gpu+cpu+ram+tower+pc&_sacat=0&LH_Sold=1&_udlo=&_udhi=&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     RAM = "https://www.ebay.com.au/sch/i.html?_from=R40&_fosrp=1&_nkw=PART&_in_kw=1&_ex_kw=cpu+gpu+motherboard+tower+2x+3x+4x+lot+x2+x3+x4&_sacat=0&LH_Sold=1&_udlo=&_udhi=&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
+    END = "&_in_kw=1&&_sacat=0&LH_Sold=1&_udlo=&_udhi=&LH_ItemCondition=4&_samilow=&_samihi=&_sadis=15&_stpos=2000&_sargn=-1%26saslc%3D1&_salic=15&_sop=13&_dmd=1&_ipg=60&LH_Complete=1"
     
     searchString = ""
     if id == "GPU":
@@ -77,6 +78,15 @@ def searchPartPrice():
             searchString += GPU3
         else:
             searchString += GPU2
+        searchString += END
+    else:
+        searchString = BASE
+        for part in part.split(" "):
+            part = "\"" + part + "\"" + "+"
+            searchString += part
+        searchString = searchString[:-1]
+        searchString += END
+    
     print(searchString)
 
     req = requests.get(searchString)

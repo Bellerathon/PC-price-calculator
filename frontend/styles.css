@@ -35,7 +35,7 @@ footer {
 
 table {
     table-layout: auto;
-    width: 98%;
+    width: 90%;
 }
 
 th {
@@ -52,11 +52,11 @@ td {
 
 input {
     position: relative;
-    width: 20rem;
+    width: 25rem;
     height: 2.5rem;
     border-radius: 5px;
     border: none;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, rgba(58, 65, 111, .5) 0 -3px 0 inset;
     box-sizing: border-box;
     padding: 10px;
     z-index: 0;
@@ -69,16 +69,16 @@ input {
     overflow: auto;
     background-color: #ffffff;
     border-radius: 0.3rem;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 999;
 }
-  
+
 .search-results {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-  
+
 .search-result-item {
     display: flex;
     justify-content: center;
@@ -105,11 +105,12 @@ input {
     font-size: larger;
     text-align: center;
 }
+
 .part-select {
     width: 10rem;
 }
 
-.modebar{
+.modebar {
     display: none !important;
 }
 
@@ -120,10 +121,11 @@ input {
 
 @keyframes shine {
     0% {
-      opacity: .2;
+        opacity: .2;
     }
+
     100% {
-      opacity: 1;
+        opacity: 1;
     }
 }
 
