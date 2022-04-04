@@ -23,179 +23,67 @@
 </head>
 
 <body>
-  <header>
-  </header>
+  <header></header>
+  <div class="tabs">
+    <button class="tablinks" onclick="openTab(event, 'CPU')">CPU</button>
+    <button class="tablinks" onclick="openTab(event, 'GPU')">GPU</button>
+    <button class="tablinks" onclick="openTab(event, 'MOTHERBOARD')">Motherboard</button>
+    <button class="tablinks" onclick="openTab(event, 'RAM')">RAM</button>
+    <button class="tablinks" onclick="openTab(event, 'CASE')">CASE</button>
+    <button class="tablinks" onclick="openTab(event, 'COOLER')">CPU Cooler</button>
+    <button class="tablinks" onclick="openTab(event, 'STORAGE')">Storage</button>
+    <button class="tablinks" onclick="openTab(event, 'FANS')">Case Fans</button>
+    <button class="tablinks" onclick="openTab(event, 'KEYBOARD')">Keyboard</button>
+    <button class="tablinks" onclick="openTab(event, 'MONITOR')">Monitor</button>
+    <button class="tablinks" onclick="openTab(event, 'MOUSE')">Mouse</button>
+  </div>
 
-  <table>
-    <tbody>
-      <tr>
-        <th>Part</th>
-        <th>Model</th>
-        <th>Avg. Selling Price</th>
-        <th>Price Range (Past 90 Days of Sales on Ebay)</th>
-      </tr>
-      <tr>
-        <td>CPU</td>
-        <td>
-          <input type="search" id="CPU" class="part-input" placeholder="e.g Intel Core i7-6700k">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="CPU-search-results"></div>
-          </div>
-        </td>
-        <td id="CPU-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="CPU-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>GPU</td>
-        <td>
-          <input type="search" id="GPU" class="part-input" placeholder="e.g ASUS Strix GTX1070">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="GPU-search-results"></div>
-          </div>
-        </td>
-        <td id="GPU-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="GPU-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Motherboard</td>
-        <td>
-          <input type="search" id="MOTHERBOARD" class="part-input" placeholder="e.g ASRock B550 Steel Legend AM4 ATX">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="MOTHERBOARD-search-results"></div>
-          </div>
-        </td>
-        <td id="MOTHERBOARD-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="MOTHERBOARD-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>RAM</td>
-        <td>
-          <input type="search" id="RAM" class="part-input" placeholder="e.g Crucial Ballistix 8 GB DDR4 2400MHz">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="RAM-search-results"></div>
-          </div>
-        </td>
-        <td id="RAM-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="RAM-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Power Supply</td>
-        <td>
-          <input type="search" id="POWERSUPPLY" class="part-input"
-            placeholder="e.g EVGA G5 ATX 80+ Gold 650W Full modular">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="POWERSUPPLY-search-results"></div>
-          </div>
-        </td>
-        <td id="POWERSUPPLY-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="POWERSUPPLY-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Case</td>
-        <td>
-          <input type="search" id="CASE" class="part-input" placeholder="e.g Lian Li PC-O11 Dynamic 'ATX Full Tower'">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="CASE-search-results"></div>
-          </div>
-        </td>
-        <td id="CASE-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="CASE-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Storage</td>
-        <td>
-          <input type="search" id="STORAGE" class="part-input" placeholder="e.g Samsung 860 Evo 1.0TB SSD mSATA">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="STORAGE-search-results"></div>
-          </div>
-        </td>
-        <td id="STORAGE-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="STORAGE-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Case Fans</td>
-        <td>
-          <input type="search" id="FAN" class="part-input" placeholder="e.g be quiet! Shadow Wings 120">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="FAN-search-results"></div>
-          </div>
-        </td>
-        <td id="FAN-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="FAN-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>CPU Cooler</td>
-        <td>
-          <input type="search" id="COOLER" class="part-input" placeholder="e.g Noctua NH-D15">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="COOLER-search-results"></div>
-          </div>
-        </td>
-        <td id="COOLER-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="COOLER-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Monitor</td>
-        <td>
-          <input type="search" id="MONITOR" class="part-input" placeholder="e.g MSI Optix G271 27.0inch 144Hz">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="MONITOR-search-results"></div>
-          </div>
-        </td>
-        <td id="MONITOR-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="MONITOR-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Keyboard</td>
-        <td>
-          <input type="search" id="KEYBOARD" class="part-input"
-            placeholder="e.g SteelSeries Apex 150 Gaming Wired Black">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="KEYBOARD-search-results"></div>
-          </div>
-        </td>
-        <td id="KEYBOARD-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="KEYBOARD-chart"></div>
-        </td>
-      </tr>
-      <tr>
-        <td>Mouse</td>
-        <td>
-          <input type="search" id="MOUSE" class="part-input" placeholder="e.g Razer Mamba Laser Wireless Black">
-          <div class="search-results-wrapper">
-            <div class="search-result" id="MOUSE-search-results"></div>
-          </div>
-        </td>
-        <td id="MOUSE-cost" class="selling-price">999</td>
-        <td class="td-chart">
-          <div id="MOUSE-chart"></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <footer>
-  </footer>
+  <div id="CPU" class="tabcontent">
+    <h2>CPU</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="GPU" class="tabcontent">
+    <h2>GPU</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="MOTHERBOARD" class="tabcontent">
+    <h2>MOTHERBOARD</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="RAM" class="tabcontent">
+    <h2>RAM</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="CASE" class="tabcontent">
+    <h2>CASE</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="COOLER" class="tabcontent">
+    <h2>COOLER</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="STORAGE" class="tabcontent">
+    <h2>STORAGE</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="FANS" class="tabcontent">
+    <h2>FANS</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="KEYBOARD" class="tabcontent">
+    <h2>KEYBOARD</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="MONITOR" class="tabcontent">
+    <h2>MONITOR</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+  <div id="MOUSE" class="tabcontent">
+    <h2>MOUSE</h2>
+    <p>London is the capital city of England.</p>
+  </div>
+
+  <footer></footer>
   <script src="./script.js" async></script>
   <script src='https://cdn.plot.ly/plotly-latest.min.js' async></script>
 </body>

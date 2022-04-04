@@ -16,6 +16,20 @@ for (let i = 0; i < elements.length; i++) {
     });
 };
 
+const openTab = (evt, tabName) => {
+    let i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
 // Debounce function from: https://stackoverflow.com/q/24004791/1814486
 const debounce = (func, wait, immediate) => {
     let timeout
