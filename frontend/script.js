@@ -1,20 +1,28 @@
-const elements = document.querySelectorAll('.part-input');
-for (let i = 0; i < elements.length; i++) {
-    const element = document.getElementById(elements[i].id);
-    element.addEventListener('focus', () => {
-        document.getElementById(element.id.concat('-search-results')).style.display = 'block';
-    });
-    element.addEventListener('blur', () => {
-        setTimeout(() => {
-            document.getElementById(element.id.concat('-search-results')).style.display = 'none';
-        }, 100);
-    });
-    element.addEventListener('input', () => {
-        if (element.value === '') {
-            document.getElementById(element.id.concat('-search-results')).style.display = 'none';
-        }
-    });
-};
+window.onload = () => {
+    document.getElementById("defaultOpen").click();
+
+    const elements = document.querySelectorAll('.part-input');
+    for (let i = 0; i < elements.length; i++) {
+        console.log(elements[i].id)
+        elements[i].addEventListener('focus', () => {
+            document.getElementById(elements[i].id.concat('-search-results')).style.display = 'block';
+        });
+        elements[i].addEventListener('blur', () => {
+            setTimeout(() => {
+                document.getElementById(elements[i].id.concat('-search-results')).style.display = 'none';
+            }, 100);
+        });
+        elements[i].addEventListener('input', () => {
+            if (elements[i].value === '') {
+                document.getElementById(elements[i].id.concat('-search-results')).style.display = 'none';
+            }
+        });
+        elements[i].addEventListener('keyup', debounce(() => {
+            searchPart(elements[i].value, elements[i].id)
+        }, 500));
+    };
+
+}
 
 const openTab = (evt, tabName) => {
     let i, tabcontent, tablinks;
@@ -47,18 +55,11 @@ const debounce = (func, wait, immediate) => {
     }
 }
 
-let myInputs = document.querySelectorAll('input[type=search]');
-for (let i = 0; i < myInputs.length; i++) {
-    const element = document.getElementById(myInputs[i].id);
-    element.addEventListener('keyup', debounce(() => {
-        searchPart(element.value, element.id)
-    }, 500));
-}
-
 const searchPart = (value, id) => {
     console.log(value, id);
     const requestOptions = {
         method: 'POST',
+        mode: 'cors',
         headers: {
             'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*',
             'Access-Control-Allow-Methods': 'POST, GET, OPTIONS',
@@ -78,6 +79,7 @@ const searchPart = (value, id) => {
 const searchPartPrice = (name, id) => {
     const requestOptions = {
         method: 'POST',
+        mode: 'cors',
         headers: {
             'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*',
             'Access-Control-Allow-Methods': 'POST, GET, OPTIONS',
@@ -98,6 +100,7 @@ const searchResultItem = (text, id) => {
     searchItem.className = 'search-result-item';
     searchItem.innerText = text;
     searchItem.addEventListener('click', () => {
+        console.log(id)
         document.getElementById(id).value = text;
         searchPartPrice(text, id);
         document.getElementById(id.concat('-search-results')).style.display = 'none';

@@ -14,7 +14,7 @@ from collections import namedtuple
 from operator    import itemgetter
 
 app = Flask(__name__)
-cors = CORS(app)
+CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 valid_parts = ["CPU", "GPU", "MOTHERBOARD", "RAM", "STORAGE", "FAN", "CASE", "POWERSUPPLY", "KEYBOARD", "MOUSE", "MONITOR", "COOLER"]
 
@@ -107,6 +107,13 @@ def searchPartPrice():
         value = (sub(r'[^\d.]', '', price))
         prices.append(float(value))
 
+    dates = []
+    post_dates = soup.findAll("span", class_ = "tme")
+    for d in post_dates:
+        this_year = str(datetime.now().year)
+        datestr = str(this_year) + "-" + d.text.strip()
+        dates.append(datetime.strptime(datestr, '%Y-%d-%b %H:%M'))
+        
     index_split = prices.index("International sellers")
     local_sellers = prices[:index_split]
     international_sellers = prices[index_split + 1:]

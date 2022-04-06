@@ -25,62 +25,115 @@
 <body>
   <header></header>
   <div class="tabs">
-    <button class="tablinks" onclick="openTab(event, 'CPU')">CPU</button>
-    <button class="tablinks" onclick="openTab(event, 'GPU')">GPU</button>
-    <button class="tablinks" onclick="openTab(event, 'MOTHERBOARD')">Motherboard</button>
-    <button class="tablinks" onclick="openTab(event, 'RAM')">RAM</button>
-    <button class="tablinks" onclick="openTab(event, 'CASE')">CASE</button>
-    <button class="tablinks" onclick="openTab(event, 'COOLER')">CPU Cooler</button>
-    <button class="tablinks" onclick="openTab(event, 'STORAGE')">Storage</button>
-    <button class="tablinks" onclick="openTab(event, 'FANS')">Case Fans</button>
-    <button class="tablinks" onclick="openTab(event, 'KEYBOARD')">Keyboard</button>
-    <button class="tablinks" onclick="openTab(event, 'MONITOR')">Monitor</button>
-    <button class="tablinks" onclick="openTab(event, 'MOUSE')">Mouse</button>
+    <button class="tablinks" onclick="openTab(event, 'CPU-content')" id="defaultOpen">CPU</button>
+    <button class="tablinks" onclick="openTab(event, 'GPU-content')">GPU</button>
+    <button class="tablinks" onclick="openTab(event, 'MOTHERBOARD-content')">Motherboard</button>
+    <button class="tablinks" onclick="openTab(event, 'RAM-content')">RAM</button>
+    <button class="tablinks" onclick="openTab(event, 'CASE-content')">CASE</button>
+    <button class="tablinks" onclick="openTab(event, 'COOLER-content')">CPU Cooler</button>
+    <button class="tablinks" onclick="openTab(event, 'STORAGE-content')">Storage</button>
+    <button class="tablinks" onclick="openTab(event, 'FANS-content')">Case Fans</button>
+    <button class="tablinks" onclick="openTab(event, 'KEYBOARD-content')">Keyboard</button>
+    <button class="tablinks" onclick="openTab(event, 'MONITOR-content')">Monitor</button>
+    <button class="tablinks" onclick="openTab(event, 'MOUSE-content')">Mouse</button>
   </div>
 
-  <div id="CPU" class="tabcontent">
-    <h2>CPU</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CPU-content" class="tabcontent">
+    <div>
+      <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+      <div class="search-results-wrapper">
+        <div class="search-result" id="CPU-search-results"></div>
+      </div>
+    </div>
+    <div id="CPU-chart"></div>
   </div>
-  <div id="GPU" class="tabcontent">
-    <h2>GPU</h2>
-    <p>London is the capital city of England.</p>
+  <div id="GPU-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
   </div>
-  <div id="MOTHERBOARD" class="tabcontent">
-    <h2>MOTHERBOARD</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CPU-chart"></div>
   </div>
-  <div id="RAM" class="tabcontent">
-    <h2>RAM</h2>
-    <p>London is the capital city of England.</p>
+  <div id="MOTHERBOARD-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
   </div>
-  <div id="CASE" class="tabcontent">
-    <h2>CASE</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CPU-chart"></div>
   </div>
-  <div id="COOLER" class="tabcontent">
-    <h2>COOLER</h2>
-    <p>London is the capital city of England.</p>
+  <div id="RAM-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
   </div>
-  <div id="STORAGE" class="tabcontent">
-    <h2>STORAGE</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CPU-chart"></div>
   </div>
-  <div id="FANS" class="tabcontent">
-    <h2>FANS</h2>
-    <p>London is the capital city of England.</p>
+  <div id="POWERSUPPLY-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
   </div>
-  <div id="KEYBOARD" class="tabcontent">
-    <h2>KEYBOARD</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CPU-chart"></div>
   </div>
-  <div id="MONITOR" class="tabcontent">
-    <h2>MONITOR</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CASE-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
   </div>
-  <div id="MOUSE" class="tabcontent">
-    <h2>MOUSE</h2>
-    <p>London is the capital city of England.</p>
+  <div id="CPU-chart"></div>
+  </div>
+  <div id="STORAGE-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
+  </div>
+  <div id="CPU-chart"></div>
+  </div>
+  <div id="COOLER-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
+  </div>
+  <div id="CPU-chart"></div>
+  </div>
+  <div id="FANS-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
+  </div>
+  <div id="CPU-chart"></div>
+  </div>
+  <div id="KEYBOARD-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
+  </div>
+  <div id="CPU-chart"></div>
+  </div>
+  <div id="MONITOR-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
+  </div>
+  <div id="CPU-chart"></div>
+  </div>
+  <div id="MOUSE-content" class="tabcontent">
+    <input type="search" id="CPU" class="part-input" placeholder="Enter model e.g Intel Core i7-6700k">
+    <div class="search-results-wrapper">
+      <div class="search-result" id="CPU-search-results"></div>
+    </div>
+  </div>
+  <div id="CPU-chart"></div>
   </div>
 
   <footer></footer>
