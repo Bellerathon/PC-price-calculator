@@ -91,7 +91,8 @@ const searchPartPrice = (name, id) => {
     fetch('http://127.0.0.1:3000/searchPartPrice', requestOptions)
         .then(response => response.json())
         .then(res => {
-            chart(res, id);
+            boxplotchart(res, id);
+            scatterplotchart(res, id);
         });
 }
 
@@ -127,7 +128,7 @@ const indexInClass = (id) => {
     return 0;
 }
 
-const chart = (prices, id) => {
+const boxplotchart = (prices, id) => {
     let colours = ['rgba(93, 164, 214, 0.5)', 'rgba(255, 144, 14, 0.5)', 'rgba(44, 160, 101, 0.5)', 'rgba(255, 65, 54, 0.5)', 'rgba(207, 114, 255, 0.5)', 'rgba(127, 96, 0, 0.5)', 'rgba(255, 140, 184, 0.5)', 'rgba(79, 90, 117, 0.5)', 'rgba(222, 223, 0, 0.5)', 'rgb(0,128,128)', 'rgb(214,12,140)', 'rgb(10,140,208)'];
     var trace3 = {
         type: 'box',
@@ -172,5 +173,17 @@ const chart = (prices, id) => {
         }
     };
 
-    Plotly.newPlot(id.concat('-chart'), data, layout);
+    Plotly.newPlot(id.concat('-boxplot'), data, layout);
+}
+
+const scatterplotchart = (prices, id) => {
+    var data = [
+        {
+            x: prices,
+            y: dates,
+            type: 'scatter'
+        }
+    ];
+
+    Plotly.newPlot(id.concat('-scatterplot'), data);
 }

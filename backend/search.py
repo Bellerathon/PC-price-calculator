@@ -98,6 +98,7 @@ def searchPartPrice():
     prices = []
     for child in children:
         price = child.find("span", class_ = "bold bidsold")
+        dte = child.find("span", class_ = "tme")
         if price == None:
             prices.append("International sellers")
             continue
@@ -107,12 +108,12 @@ def searchPartPrice():
         value = (sub(r'[^\d.]', '', price))
         prices.append(float(value))
 
-    dates = []
-    post_dates = soup.findAll("span", class_ = "tme")
-    for d in post_dates:
-        this_year = str(datetime.now().year)
-        datestr = str(this_year) + "-" + d.text.strip()
-        dates.append(datetime.strptime(datestr, '%Y-%d-%b %H:%M'))
+    # dates = []
+    # post_dates = soup.findAll("span", class_ = "tme")
+    # for d in post_dates:
+    #     this_year = str(datetime.now().year)
+    #     datestr = str(this_year) + "-" + d.text.strip()
+    #     dates.append(datetime.strptime(datestr, '%Y-%d-%b %H:%M'))
         
     index_split = prices.index("International sellers")
     local_sellers = prices[:index_split]
